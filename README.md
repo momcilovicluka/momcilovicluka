@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **momcilovicluka/momcilovicluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=momcilovicluka&&show_icons=true&title_color=00ffff&icon_color=ff054c&text_color=00ffcc&bg_color=000020">
