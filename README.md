@@ -141,10 +141,10 @@ Currently studying IT @ DMI @ Faculty of Sciences @ University of Novi Sad
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momcilovicluka&layout=compact&title_color=00ffff&icon_color=ff054c&text_color=00ffcc&bg_color=000020)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=momcilovicluka&&show_icons=true&title_color=00ffff&icon_color=ff054c&text_color=00ffcc&bg_color=000020"> |
 | ------------- | ------------- |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momcilovicluka&title_color=00ffff&icon_color=ff054c&text_color=00ffcc&bg_color=000020)](https://github.com/anuraghazra/github-readme-stats)
-
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=momcilovicluka" alt="GitHub Stats" /> | <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka" alt="momcilovicluka" /></a></p> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=momcilovicluka" alt="GitHub Stats" /> | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momcilovicluka&title_color=00ffff&icon_color=ff054c&text_color=00ffcc&bg_color=000020)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka" alt="momcilovicluka" /></a></p>
 
 <h2>⚡ About me:</h2>
 
