@@ -139,8 +139,10 @@ Here are some ideas to get you started:
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka" alt="momcilovicluka" /></a></p>
 
-<details>
+<details open>
   <summary>✒WakaTime Stats</summary>
+  <hr>
+  
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2026%20mins-blue)
 
