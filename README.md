@@ -139,6 +139,7 @@ Here are some ideas to get you started:
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka" alt="momcilovicluka" /></a></p>
 
+<hr>
 <details open>
   <summary>✒WakaTime Stats</summary>
   <hr>
@@ -214,9 +215,11 @@ C++                      1 repo              █░░░░░░░░░░�
  Last Updated on 15/03/2023 12:04:37 UTC
 <!--END_SECTION:waka-->
 </details>
-
+<hr>
 <details>
   <summary>📃 Recent activity</summary>
+  <hr>
+  
   <!--START_SECTION:activity-->
 </details>
 
