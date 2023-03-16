@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 -->
-<img align="center" alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"></img><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noreferrer">
+<img align="center" alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="360" height="156"></img><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noreferrer">
     <img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff"/>
   </a><h1><img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="40" height="40"/>I'm Luka Momčilović</h1>
 
