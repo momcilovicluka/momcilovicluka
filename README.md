@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 -->
-<img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="340" height="150"/><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noopener noreferrer">
+<img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff"/>
 </a>
 <h1>
