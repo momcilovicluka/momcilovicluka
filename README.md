@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 -->
-<a><img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" height="130"></img></a><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noreferrer">
+<img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" height="130"/>
+<a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff"/>
-  </a><h1><img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="40" height="40"/>I'm Luka Momčilović</h1>
+</a>
+<h1>
+    <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="40" height="40"/>
+    I'm Luka Momčilović
+</h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) Currently studying IT @ DMI @ Faculty of Sciences @ University of Novi Sad
 
