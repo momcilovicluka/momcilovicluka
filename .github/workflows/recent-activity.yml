@@ -3,7 +3,7 @@ name: Update recent activity in README
 on:
   schedule:
     - cron: '0 0 31 2 *'
-  workflow_dispatch:
+ # workflow_dispatch:
 
 jobs:
   build:
