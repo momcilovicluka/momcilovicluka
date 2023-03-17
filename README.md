@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) Currently studying IT @ DMI @ Faculty of Sciences @ University of Novi Sad
+<a href="mailto:l.momcilovic61@gmai.com">![l.momcilovic61@gmai.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
+</a>
+<br>
+<p>
+    As a student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime and diving into the depths of philosophy and psychology through my extensive 📘reading.
+</p>
 
 <h2>🛠 Languages and Tools:</h2>
 <p align="left">
@@ -232,15 +240,3 @@ C++                      1 repo              █░░░░░░░░░░�
   
   <!--START_SECTION:activity-->
 </details>
-
-<h2>⚡ About me:</h2>
-
-I'm a student living in Novi Sad, Serbia. Outside technology related stuff, I like to play video games with friends, listen 2 music (what i'm currently listening above) and read mostly philosophy books.
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:l.momcilovic61@gmai.com">![l.momcilovic61@gmai.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<br>
-<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
-</a>
