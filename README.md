@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
 <br>
 <p>
-    As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting theweigh 🏋️‍♂️gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime and diving into the depths of philosophy and psychology through my extensive 📘reading.
+    As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the 🏋️‍♂️gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime and diving into the depths of philosophy and psychology through my extensive 📘reading.
 </p>
 
 <h2>🛠 Languages and Tools:</h2>
