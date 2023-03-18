@@ -246,7 +246,7 @@ C++                      1 repo              █░░░░░░░░░░�
   <!--START_SECTION:activity-->
 </details>
 <hr>
-<details>
+<details open>
   <summary>📺 Anilist activity</summary>
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
