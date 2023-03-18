@@ -131,6 +131,9 @@ Here are some ideas to get you started:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noopener noreferrer">
+    <img src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="powershell" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
