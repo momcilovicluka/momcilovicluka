@@ -14,6 +14,5 @@ jobs:
         with:
           # Your anilist user id
           user_id: 5492163
-          gh_token: ${{ secrets.GH_TOKEN }}
           timezone: "Europe/Belgrade"
           date_format: "{h}:{m} {D}-{MW}-{Y}"
