@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=momcilovicluka&background=000020&border=0000ff&stroke=aa00ff&ring=0000ff&fire=ff054c&currStreakNum=00ff44&sideNums=00ff44&currStreakLabel=ff054c&sideLabels=ff054c&dates=0ffff0" alt="GitHub Stats" /> | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momcilovicluka&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka&theme=algolia&margin-w=2&margin-h=2&column=8" alt="momcilovicluka" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka&theme=algolia&margin-w=10&margin-h=2&column=8&no-frame=true" alt="momcilovicluka" /></a></p>
 
 <hr>
 <details open>
