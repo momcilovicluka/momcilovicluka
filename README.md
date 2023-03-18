@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
 <p>
-    As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the 🏋️‍♂️gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime and diving into the depths of philosophy and psychology through my extensive 📘reading.
+    As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the 🏋️‍♂️gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime (latest activity listed at the bottom) and diving into the depths of philosophy and psychology through my extensive 📘reading.
 </p>
 
 <h2>🛠 Languages and Tools:</h2>
@@ -259,3 +259,4 @@ C++                      1 repo              █░░░░░░░░░░�
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
+<hr>
