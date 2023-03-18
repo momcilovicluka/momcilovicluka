@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 -->
+
+<!--
+<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
+</a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
+-->
+
 <img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
 </a>
@@ -21,9 +28,11 @@ Here are some ideas to get you started:
     I'm Luka Momčilović
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) |📧:<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
-</a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
+[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) |📧:[![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
+[![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
+
 <br>
 <p>
     As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the 🏋️‍♂️gym, enjoying 🎮video games with friends, listening to some of my favorite 🎶tunes (above, you can find what I am/was listening to), watching some 📺anime and diving into the depths of philosophy and psychology through my extensive 📘reading.
