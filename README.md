@@ -28,10 +28,10 @@ Here are some ideas to get you started:
     I'm Luka Momčilović
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) |📧:[![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
-[![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) [![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
 
 <br>
 <p>
