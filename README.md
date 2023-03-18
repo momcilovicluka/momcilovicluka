@@ -251,5 +251,11 @@ C++                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (23:32 15 March 2023)
+-   📺 Watched episode 10 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:10 14 March 2023)
+-   📺 Plans to watch [Solo Leveling](https://anilist.co/anime/151807) (19:17 14 March 2023)
+-   📺 Watched episode 9 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:58 03 March 2023)
+-   📺 Completed [SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist](https://anilist.co/anime/20910) (22:00 24 February 2023)
+
     <!-- ANILIST_ACTIVITY:end -->
 </details>
