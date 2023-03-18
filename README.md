@@ -144,7 +144,7 @@ Here are some ideas to get you started:
 <h2>👀 Stats:</h2>
 <br>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momcilovicluka&layout=compact&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=momcilovicluka&&show_icons=true&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff"> |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momcilovicluka&layout=compact&langs_count=10&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=momcilovicluka&&show_icons=true&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff"> |
 | ------------- | ------------- |
 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=momcilovicluka&background=000020&border=0000ff&stroke=aa00ff&ring=0000ff&fire=ff054c&currStreakNum=00ff44&sideNums=00ff44&currStreakLabel=ff054c&sideLabels=ff054c&dates=0ffff0" alt="GitHub Stats" /> | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momcilovicluka&title_color=0055ff&icon_color=ff054c&text_color=00ff44&bg_color=000020&border_color=0000ff)](https://github.com/anuraghazra/github-readme-stats) |
