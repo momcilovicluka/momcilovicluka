@@ -13,11 +13,7 @@ jobs:
       - uses: pxseu/anilist-readme@v1.4.2
         with:
           # Your anilist user id
-          user_id: 5492163 # default is 
+          user_id: 5492163
           gh_token: ${{ secrets.GH_TOKEN }}
-          # The username of the commiter
-          commit_username: "Anilist Github Action"
-          # Timezone of the list content (e.g. Europe/Berlin)
           timezone: "Europe/Belgrade"
-          # Date format of the list content (e.g. {D}/{M or MW}/{Y} {h}:{m})
           date_format: "{h}:{m} {D}-{MW}-{Y}"
