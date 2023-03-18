@@ -14,8 +14,6 @@ jobs:
         with:
           # Your anilist user id
           user_id: 5492163 # default is 
-          # GitHub access token with Repo scope
-          gh_token: ${{ secrets.GH_TOKEN }}
           # The username of the commiter
           commit_username: "Anilist Github Action"
           # Timezone of the list content (e.g. Europe/Berlin)
