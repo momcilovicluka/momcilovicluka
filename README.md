@@ -167,9 +167,9 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-569-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-567-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -212,17 +212,17 @@ Sunday                   100 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-JSON                     2 hrs 25 mins       █████████████████████████   100.00 % 
+JSON                     2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-powershell               2 hrs 12 mins       ███████████████████████░░   91.36 % 
-Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+powershell               2 hrs 20 mins       ███████████████████████░░   91.81 % 
+Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -238,7 +238,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2023 01:01:39 UTC
+ Last Updated on 20/03/2023 00:58:42 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
