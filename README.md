@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
 </a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
+
+[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
 -->
 
-<img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><a href="https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
-</a>
+<img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
 <h1>
     <img alt="Wave image" src="https://user-images.githubusercontent.com/68912857/218808235-50f91cfa-5ec0-43c3-89f7-abb8d4258621.gif" width="40" height="40"/>
     I'm Luka Momčilović
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) [![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
+[![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) [![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
+[![Spotify Badge](https://img.shields.io/badge/-Luka-1DB954?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 <p>
     As an 👨‍💻IT student based in Novi Sad, Serbia, I find myself constantly drawn to the world of technology. However, when I'm not immersing myself in the latest tech trends, you can find me hitting the 🏋️‍♂️gym, enjoying 🎮<a href="https://steamcommunity.com/id/lukamomcilovic/" target="_blank" rel="noopener noreferrer">video games</a> with friends, listening to some of <a href="https://open.spotify.com/playlist/58qiwipmQUaWc3GUQKvkjq?si=25c84963368049f3" target="_blank" rel="noopener noreferrer">my favorite 🎶tunes</a> (above, you can find what I am/was listening to), improving my strategical thinking by playing <a href="https://www.chess.com/member/luka6120" target="_blank" rel="noopener noreferrer">♟chess</a>, watching <a href="https://anilist.co/user/lukamomcilovic/" target="_blank" rel="noopener noreferrer">📺anime</a> (latest activity listed at the bottom) and diving into the depths of philosophy and psychology through my extensive 📘reading.
 </p>
