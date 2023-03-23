@@ -255,11 +255,11 @@ C++                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [Love of Kill](https://anilist.co/anime/127050) (21:23 21 March 2023)
+-   📺 Watched episode 7 of [Love of Kill](https://anilist.co/anime/127050) (22:26 22 March 2023)
+-   📺 Watched episode 12 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:05 22 March 2023)
+-   📺 Watched episode 5 - 6 of [Love of Kill](https://anilist.co/anime/127050) (08:44 22 March 2023)
 -   📺 Watched episode 4 of [Love of Kill](https://anilist.co/anime/127050) (22:26 20 March 2023)
 -   📺 Watched episode 1 - 3 of [Love of Kill](https://anilist.co/anime/127050) (22:24 19 March 2023)
--   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (23:32 15 March 2023)
--   📺 Watched episode 10 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:10 14 March 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
