@@ -53,9 +53,6 @@ Here are some ideas to get you started:
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
-  </a>  
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
@@ -124,6 +121,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://www.svgrepo.com/show/306098/githubactions.svg" alt="github-actions" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
