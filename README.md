@@ -259,11 +259,11 @@ C++                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Scum's Wish](https://anilist.co/anime/21701) (21:12 02 April 2023)
+-   📺 Watched episode 6 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (20:52 02 April 2023)
 -   📺 Watched episode 2 of [Scum's Wish](https://anilist.co/anime/21701) (21:05 01 April 2023)
 -   📺 Watched episode 2 - 5 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (20:19 01 April 2023)
 -   📺 Completed [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:18 29 March 2023)
--   📺 Completed [Love of Kill](https://anilist.co/anime/127050) (20:54 29 March 2023)
--   📺 Watched episode 9 - 11 of [Love of Kill](https://anilist.co/anime/127050) (08:44 29 March 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
