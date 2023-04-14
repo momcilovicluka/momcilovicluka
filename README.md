@@ -253,11 +253,11 @@ C++                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (20:25 13 April 2023)
+-   📺 Watched episode 6 of [Scum's Wish](https://anilist.co/anime/21701) (20:03 13 April 2023)
 -   📺 Watched episode 1 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (20:45 12 April 2023)
 -   📺 Watched episode 1 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (22:08 11 April 2023)
 -   📺 Watched episode 4 - 5 of [Scum's Wish](https://anilist.co/anime/21701) (21:48 05 April 2023)
--   📺 Watched episode 7 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (16:29 03 April 2023)
--   📺 Watched episode 3 of [Scum's Wish](https://anilist.co/anime/21701) (21:12 02 April 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
