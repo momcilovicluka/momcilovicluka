@@ -256,11 +256,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (22:13 23 April 2023)
 -   📺 Watched episode 3 of [Rokudo's Bad Girls](https://anilist.co/anime/160442) (21:46 22 April 2023)
 -   📺 Watched episode 3 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (22:19 21 April 2023)
 -   📺 Watched episode 3 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (23:16 17 April 2023)
 -   📺 Watched episode 1 - 2 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (22:34 16 April 2023)
--   📺 Watched episode 1 - 2 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (22:12 16 April 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
