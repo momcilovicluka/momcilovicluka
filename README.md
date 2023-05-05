@@ -167,9 +167,9 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -177,11 +177,11 @@ Here are some ideas to get you started:
 
 > 📦 770.8 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2023
+> 🏆 187 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -212,21 +212,16 @@ Sunday                   110 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Java                     6 mins              ██████████████░░░░░░░░░░░   56.19 % 
-INI                      3 mins              ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Java                     18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Eclipse                  6 mins              ██████████████░░░░░░░░░░░   56.19 % 
-VS Code                  5 mins              ███████████░░░░░░░░░░░░░░   43.81 % 
+Eclipse                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TODO                     6 mins              ██████████████░░░░░░░░░░░   56.19 % 
-Unknown Project          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-.gnupg                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+TODO                     18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -242,7 +237,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2023 00:53:22 UTC
+ Last Updated on 05/05/2023 00:49:06 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
