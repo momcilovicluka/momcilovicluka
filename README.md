@@ -169,7 +169,7 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -212,16 +212,16 @@ Sunday                   110 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Java                     18 mins             █████████████████████████   100.00 % 
+Java                     11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Eclipse                  18 mins             █████████████████████████   100.00 % 
+Eclipse                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TODO                     18 mins             █████████████████████████   100.00 % 
+TODO                     11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -237,7 +237,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 00:56:41 UTC
+ Last Updated on 08/05/2023 00:51:50 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
