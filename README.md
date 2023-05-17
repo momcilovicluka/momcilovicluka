@@ -255,11 +255,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (21:26 16 May 2023)
+-   📺 Watched episode 7 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:02 16 May 2023)
+-   📺 Watched episode 6 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (20:40 16 May 2023)
 -   📺 Watched episode 6 of [Rokudo's Bad Girls](https://anilist.co/anime/160442) (21:35 14 May 2023)
 -   📺 Watched episode 6 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:14 14 May 2023)
--   📺 Watched episode 5 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (20:59 10 May 2023)
--   📺 Watched episode 5 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (20:38 08 May 2023)
--   📺 Watched episode 5 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (20:16 08 May 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
