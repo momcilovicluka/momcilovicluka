@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (20:41 28 May 2023)
 -   📺 Watched episode 7 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (21:21 25 May 2023)
 -   📺 Watched episode 6 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:18 22 May 2023)
 -   📺 Watched episode 6 of [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (13:13 21 May 2023)
 -   📺 Watched episode 6 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (21:19 20 May 2023)
--   📺 Watched episode 5 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:20 17 May 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
