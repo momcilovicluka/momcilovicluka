@@ -259,11 +259,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:23 07 June 2023)
 -   📺 Watched episode 8 - 9 of [Rokudo's Bad Girls](https://anilist.co/anime/160442) (22:46 06 June 2023)
 -   📺 Watched episode 9 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (22:03 06 June 2023)
 -   📺 Watched episode 8 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (22:29 04 June 2023)
 -   📺 Watched episode 7 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (22:59 02 June 2023)
--   📺 Watched episode 7 of [Rokudo's Bad Girls](https://anilist.co/anime/160442) (22:28 02 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
