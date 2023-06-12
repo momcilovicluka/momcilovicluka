@@ -256,11 +256,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:50 11 June 2023)
+-   📺 Watched episode 10 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (21:16 11 June 2023)
+-   📺 Plans to watch [Hananoi-kun to Koi no Yamai](https://anilist.co/anime/165855) (10:34 11 June 2023)
 -   📺 Watched episode 9 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:15 10 June 2023)
 -   📺 Watched episode 9 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (20:54 10 June 2023)
--   📺 Watched episode 8 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (22:16 09 June 2023)
--   📺 Watched episode 10 of [Rokudo's Bad Girls](https://anilist.co/anime/160442) (21:55 09 June 2023)
--   📺 Watched episode 9 of [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (21:34 09 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
