@@ -212,17 +212,16 @@ Sunday                   112 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-JSON                     39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          35 mins             ███████████████████████░░   91.14 % 
-powershell               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -238,7 +237,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2023 00:58:49 UTC
+ Last Updated on 16/06/2023 00:59:33 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
