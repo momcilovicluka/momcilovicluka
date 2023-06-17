@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/momcilovicluka.svg?style=social&label=Follow)](https://github.com/momcilovicluka?tab=followers) [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=momcilovicluka)](https://github.com/momcilovicluka) [![wakatime](https://wakatime.com/badge/user/269cb445-ebad-4143-a30c-b91dd2b6286e.svg?style=default)](https://wakatime.com/@269cb445-ebad-4143-a30c-b91dd2b6286e) [![Gmail Badge](https://img.shields.io/badge/-l.momcilovic61-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:l.momcilovic61@gmail.com)](mailto:l.momcilovic61@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-lukamomcilovicit-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukamomcilovicit@gmail.com)](mailto:lukamomcilovicit@gmail.com)
+[![Proton Mail Badge](https://img.shields.io/badge/-lukamomcilovic-8B89CC?style=flat&logo=Protonmail&logoColor=white&link=mailto:lukamomcilovic@protonmail.com)](mailto:lukamomcilovic@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-lukamomcilovic-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/lukamomcilovic/)
 [![Spotify Badge](https://img.shields.io/badge/-Luka-1DB954?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
 <p>
