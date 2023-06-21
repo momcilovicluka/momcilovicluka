@@ -253,11 +253,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (21:31 20 June 2023)
 -   📺 Watched episode 12 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:32 19 June 2023)
 -   📺 Watched episode 9 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (22:16 18 June 2023)
 -   📺 Watched episode 8 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (21:47 17 June 2023)
 -   📺 Watched episode 11 of [Summoned to Another World for a Second Time](https://anilist.co/anime/140754) (21:23 17 June 2023)
--   📺 Watched episode 11 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:45 16 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
