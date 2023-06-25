@@ -253,11 +253,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Megami no Café Terrace 2nd Season](https://anilist.co/anime/166477) (15:30 24 June 2023)
 -   📺 Completed [Rokudo's Bad Girls](https://anilist.co/anime/160442) (00:08 24 June 2023)
 -   📺 Completed [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (23:43 23 June 2023)
 -   📺 Watched episode 10 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (21:31 20 June 2023)
 -   📺 Watched episode 12 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:32 19 June 2023)
--   📺 Watched episode 9 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (22:16 18 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
