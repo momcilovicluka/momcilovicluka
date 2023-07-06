@@ -253,11 +253,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (22:17 05 July 2023)
+-   📺 Plans to watch [Isekai Suicide Squad](https://anilist.co/anime/166710) (12:06 05 July 2023)
 -   📺 Watched episode 9 of [Scum's Wish](https://anilist.co/anime/21701) (17:23 30 June 2023)
 -   📺 Watched episode 10 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (21:14 29 June 2023)
 -   📺 Completed [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/anime/153845) (21:53 28 June 2023)
--   📺 Watched episode 11 of [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (21:30 28 June 2023)
--   📺 Watched episode 7 - 8 of [Scum's Wish](https://anilist.co/anime/21701) (21:59 27 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
