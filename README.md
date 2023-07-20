@@ -253,11 +253,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Scum's Wish](https://anilist.co/anime/21701) (16:46 19 July 2023)
 -   📺 Plans to watch [A Returner's Magic Should Be Special](https://anilist.co/anime/163142) (08:44 15 July 2023)
 -   📺 Watched episode 11 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (22:23 09 July 2023)
 -   📺 Completed [KamiKatsu: Working for God in a Godless World](https://anilist.co/anime/148048) (22:17 05 July 2023)
 -   📺 Plans to watch [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (12:06 05 July 2023)
--   📺 Watched episode 9 of [Scum's Wish](https://anilist.co/anime/21701) (17:23 30 June 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
