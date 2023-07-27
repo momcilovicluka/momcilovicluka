@@ -253,11 +253,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [My Happy Marriage](https://anilist.co/anime/147103) (21:13 26 July 2023)
+-   📺 Plans to watch [My Happy Marriage](https://anilist.co/anime/147103) (19:42 26 July 2023)
 -   📺 Watched episode 2 - 3 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (21:27 25 July 2023)
 -   📺 Watched episode 1 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (20:36 24 July 2023)
 -   📺 Completed [Blood Blockade Battlefront](https://anilist.co/anime/20727) (20:09 24 July 2023)
--   📺 Completed [Scum's Wish](https://anilist.co/anime/21701) (22:35 23 July 2023)
--   📺 Watched episode 11 of [Scum's Wish](https://anilist.co/anime/21701) (21:55 23 July 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
