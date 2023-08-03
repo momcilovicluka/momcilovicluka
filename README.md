@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (20:23 02 August 2023)
 -   📺 Watched episode 7 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (20:37 01 August 2023)
 -   📺 Watched episode 4 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (20:13 01 August 2023)
 -   📺 Watched episode 6 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (20:10 30 July 2023)
 -   📺 Watched episode 1 - 5 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (18:05 27 July 2023)
--   📺 Plans to watch [Tengoku Daimakyo](https://anilist.co/anime/155783) (13:30 27 July 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
