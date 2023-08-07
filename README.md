@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 5 of [Classroom for Heroes](https://anilist.co/anime/139606) (21:58 06 August 2023)
+-   📺 Watched episode 2 - 3 of [Liar, Liar](https://anilist.co/anime/131863) (20:06 06 August 2023)
 -   📺 Completed [Tengoku Daimakyo](https://anilist.co/anime/155783) (19:07 05 August 2023)
 -   📺 Watched episode 12 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (18:37 05 August 2023)
 -   📺 Watched episode 9 - 11 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (17:57 03 August 2023)
--   📺 Watched episode 5 of [My Happy Marriage](https://anilist.co/anime/147103) (16:47 03 August 2023)
--   📺 Watched episode 8 of [Tengoku Daimakyo](https://anilist.co/anime/155783) (20:23 02 August 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
