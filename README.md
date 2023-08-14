@@ -256,11 +256,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [My Happy Marriage](https://anilist.co/anime/147103) (22:25 13 August 2023)
+-   📺 Watched episode 6 of [Classroom for Heroes](https://anilist.co/anime/139606) (22:00 13 August 2023)
 -   📺 Watched episode 7 of [Liar, Liar](https://anilist.co/anime/131863) (22:33 12 August 2023)
 -   📺 Plans to watch [Watashi no Shiawase na Katachi](https://anilist.co/anime/167486) (17:00 07 August 2023)
 -   📺 Watched episode 4 - 6 of [Liar, Liar](https://anilist.co/anime/131863) (13:59 07 August 2023)
--   📺 Watched episode 2 - 5 of [Classroom for Heroes](https://anilist.co/anime/139606) (21:58 06 August 2023)
--   📺 Watched episode 2 - 3 of [Liar, Liar](https://anilist.co/anime/131863) (20:06 06 August 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
