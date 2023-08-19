@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 5 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (23:55 18 August 2023)
 -   📺 Watched episode 7 of [My Happy Marriage](https://anilist.co/anime/147103) (22:36 16 August 2023)
 -   📺 Watched episode 6 of [My Happy Marriage](https://anilist.co/anime/147103) (22:25 13 August 2023)
 -   📺 Watched episode 6 of [Classroom for Heroes](https://anilist.co/anime/139606) (22:00 13 August 2023)
 -   📺 Watched episode 7 of [Liar, Liar](https://anilist.co/anime/131863) (22:33 12 August 2023)
--   📺 Plans to watch [Watashi no Shiawase na Katachi](https://anilist.co/anime/167486) (17:00 07 August 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
