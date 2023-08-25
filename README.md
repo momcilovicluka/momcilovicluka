@@ -167,9 +167,9 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -212,16 +212,16 @@ Sunday                   117 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Anirvive                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -237,7 +237,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 00:43:15 UTC
+ Last Updated on 25/08/2023 00:44:22 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
