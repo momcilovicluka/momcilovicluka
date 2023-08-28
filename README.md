@@ -255,11 +255,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Classroom for Heroes](https://anilist.co/anime/139606) (21:16 27 August 2023)
+-   📺 Watched episode 9 of [Liar, Liar](https://anilist.co/anime/131863) (11:49 27 August 2023)
 -   📺 Watched episode 7 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (23:38 26 August 2023)
 -   📺 Watched episode 8 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (23:16 26 August 2023)
 -   📺 Watched episode 8 of [My Happy Marriage](https://anilist.co/anime/147103) (22:05 24 August 2023)
--   📺 Watched episode 8 of [Liar, Liar](https://anilist.co/anime/131863) (22:52 22 August 2023)
--   📺 Watched episode 5 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (12:15 22 August 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
