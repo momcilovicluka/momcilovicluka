@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wise Man’s Grandchild](https://anilist.co/anime/100112) (20:58 05 September 2023)
+-   📺 Watched episode 10 - 11 of [Wise Man’s Grandchild](https://anilist.co/anime/100112) (20:57 05 September 2023)
 -   📺 Watched episode 7 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (12:40 04 September 2023)
 -   📺 Watched episode 9 of [Wise Man’s Grandchild](https://anilist.co/anime/100112) (21:47 03 September 2023)
 -   📺 Watched episode 9 of [Classroom for Heroes](https://anilist.co/anime/139606) (19:17 03 September 2023)
--   📺 Watched episode 8 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (22:04 02 September 2023)
--   📺 Watched episode 10 of [Liar, Liar](https://anilist.co/anime/131863) (21:43 02 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
