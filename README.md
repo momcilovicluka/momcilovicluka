@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Moriarty the Patriot](https://anilist.co/anime/114124) (22:51 06 September 2023)
+-   📺 Watched episode 10 of [My Happy Marriage](https://anilist.co/anime/147103) (21:57 06 September 2023)
 -   📺 Completed [Wise Man’s Grandchild](https://anilist.co/anime/100112) (20:58 05 September 2023)
 -   📺 Watched episode 10 - 11 of [Wise Man’s Grandchild](https://anilist.co/anime/100112) (20:57 05 September 2023)
 -   📺 Watched episode 7 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (12:40 04 September 2023)
--   📺 Watched episode 9 of [Wise Man’s Grandchild](https://anilist.co/anime/100112) (21:47 03 September 2023)
--   📺 Watched episode 9 of [Classroom for Heroes](https://anilist.co/anime/139606) (19:17 03 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
