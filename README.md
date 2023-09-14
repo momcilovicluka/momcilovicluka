@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:25 13 September 2023)
 -   📺 Watched episode 3 - 4 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:15 12 September 2023)
 -   📺 Watched episode 2 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (21:11 11 September 2023)
 -   📺 Watched episode 10 of [Classroom for Heroes](https://anilist.co/anime/139606) (20:44 11 September 2023)
 -   📺 Watched episode 1 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (23:06 10 September 2023)
--   📺 Watched episode 11 of [Liar, Liar](https://anilist.co/anime/131863) (22:12 09 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
