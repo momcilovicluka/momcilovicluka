@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (21:17 17 September 2023)
+-   📺 Watched episode 11 of [Classroom for Heroes](https://anilist.co/anime/139606) (20:54 17 September 2023)
 -   📺 Watched episode 11 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (22:29 16 September 2023)
 -   📺 Watched episode 10 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (22:08 16 September 2023)
 -   📺 Completed [Liar, Liar](https://anilist.co/anime/131863) (21:46 16 September 2023)
--   📺 Watched episode 11 of [My Happy Marriage](https://anilist.co/anime/147103) (21:24 16 September 2023)
--   📺 Watched episode 5 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:25 13 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
