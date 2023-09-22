@@ -1,26 +1,6 @@
-<!--
-**momcilovicluka/momcilovicluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
--->
 
-<!--
-<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
-</a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
-
-[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
--->
 
 <img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
 <h1>
@@ -166,7 +146,7 @@ Here are some ideas to get you started:
   <summary>✒WakaTime Stats</summary>
   <hr>
   
-  <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -177,7 +157,7 @@ Here are some ideas to get you started:
 
 > 📦 432.9 kB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2023
+> 🏆 225 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -185,24 +165,24 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-🌆 Daytime                246 commits         ███████████░░░░░░░░░░░░░░   44.73 % 
-🌃 Evening                234 commits         ███████████░░░░░░░░░░░░░░   42.55 % 
-🌙 Night                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+🌆 Daytime                227 commits         ███████████░░░░░░░░░░░░░░   42.75 % 
+🌃 Evening                234 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Tuesday                  71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Wednesday                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Friday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 130 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Sunday                   117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Monday                   31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Tuesday                  71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Saturday                 130 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Sunday                   117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 ```
 
 
@@ -237,18 +217,13 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2023 14:25:56 UTC
-<!--END_SECTION:waka-->
+ Last Updated on 22/09/2023 00:45:29 UTC
+
 </details>
 <hr>
 <details>
   <summary>📃 Recent activity</summary>
   <hr>
-
-  ## 📃 Summary
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#526](https://github.com/karlstav/cava/pull/526) in [karlstav/cava](https://github.com/karlstav/cava)
-<!--END_SECTION:activity-->
     
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2NNFN1)
 
@@ -287,6 +262,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (1 week ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (5 months ago)
 
+## 📓 Gists I wrote
+
+
 ## ⭐ Recent Stars
 
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (3 months ago)
@@ -294,6 +272,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 &amp; 2023 inc. (5 months ago)
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. (6 months ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 year ago)
+
+## ❤️ These awesome people sponsor me (thank you!)
+
 
 ## 👯 Check out some of my recent followers
 
@@ -303,12 +284,15 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [jandric162](https://github.com/jandric162)
 - [natasaz13](https://github.com/natasaz13)
 
+## 📃 Summary
+
+
 </details>
 <hr>
 <details open>
   <summary>📺 Anilist activity</summary>
   <hr>
-    <!-- ANILIST_ACTIVITY:start -->
+    
 
 -   📺 Watched episode 10 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:02 21 September 2023)
 -   📺 Watched episode 9 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:08 20 September 2023)
@@ -316,6 +300,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 -   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:47 20 September 2023)
 -   📺 Watched episode 8 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (21:38 19 September 2023)
 
-    <!-- ANILIST_ACTIVITY:end -->
+    
 </details>
 <hr>
