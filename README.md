@@ -249,6 +249,8 @@ PHP                      1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#526](https://github.com/karlstav/cava/pull/526) in [karlstav/cava](https://github.com/karlstav/cava)
+<!--END_SECTION:activity-->
 
   ## 👷 Check out what I'm currently working on
 
