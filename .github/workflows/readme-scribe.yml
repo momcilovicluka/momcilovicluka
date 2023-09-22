@@ -2,7 +2,7 @@ name: Update README with readme-scribe
 
 on:
   schedule:
-    - cron: "50 23 * * *"
+    - cron: "59 23 * * *"
 
 jobs:
   markscribe:
