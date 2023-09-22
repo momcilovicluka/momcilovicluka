@@ -1,26 +1,6 @@
-<!--
-**momcilovicluka/momcilovicluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
--->
 
-<!--
-<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
-</a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
-
-[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
--->
 
 <img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
 <h1>
@@ -166,7 +146,7 @@ Here are some ideas to get you started:
   <summary>✒WakaTime Stats</summary>
   <hr>
   
-  <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -238,7 +218,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 22/09/2023 00:45:29 UTC
-<!--END_SECTION:waka-->
+
 </details>
 <hr>
 <details>
@@ -246,13 +226,13 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2NNFN1)
-  <!--START_SECTION:activity-->
+  
 </details>
 <hr>
 <details open>
   <summary>📺 Anilist activity</summary>
   <hr>
-    <!-- ANILIST_ACTIVITY:start -->
+    
 
 -   📺 Watched episode 10 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:02 21 September 2023)
 -   📺 Watched episode 9 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:08 20 September 2023)
@@ -260,6 +240,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 -   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:47 20 September 2023)
 -   📺 Watched episode 8 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (21:38 19 September 2023)
 
-    <!-- ANILIST_ACTIVITY:end -->
+    
 </details>
 <hr>
