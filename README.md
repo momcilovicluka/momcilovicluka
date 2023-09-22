@@ -227,7 +227,7 @@ PHP                      1 repo              █░░░░░░░░░░�
     
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2NNFN1)
 
-#### 👷 Check out what I'm currently working on
+## 👷 Check out what I'm currently working on
 
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 week ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (1 month ago)
@@ -240,7 +240,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [momcilovicluka/peygr](https://github.com/momcilovicluka/peygr) - A pager like chat application made with react (7 months ago)
 - [momcilovicluka/peygr-front-end](https://github.com/momcilovicluka/peygr-front-end) - A client front end part of the peygr system (7 months ago)
 
-#### 🌱 My latest projects
+## 🌱 My latest projects
 
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u
@@ -253,19 +253,19 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation
 - [momcilovicluka/pharo-kolekcije](https://github.com/momcilovicluka/pharo-kolekcije) - Repozitorijum za seminarski rad o kolekcijama u Pharu
 
-#### 🔭 Latest releases I've contributed to
+## 🔭 Latest releases I've contributed to
 
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 1 month ago) - Cross-platform Audio Visualizer
 
-#### 🔨 My recent Pull Requests
+## 🔨 My recent Pull Requests
 
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (1 week ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (5 months ago)
 
-#### 📓 Gists I wrote
+## 📓 Gists I wrote
 
 
-#### ⭐ Recent Stars
+## ⭐ Recent Stars
 
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (3 months ago)
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool (4 months ago)
@@ -273,10 +273,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. (6 months ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 year ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
+## ❤️ These awesome people sponsor me (thank you!)
 
 
-#### 👯 Check out some of my recent followers
+## 👯 Check out some of my recent followers
 
 - [GranicIvan](https://github.com/GranicIvan)
 - [Baja-KS](https://github.com/Baja-KS)
@@ -284,10 +284,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [jandric162](https://github.com/jandric162)
 - [natasaz13](https://github.com/natasaz13)
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#526](https://github.com/karlstav/cava/pull/526) in [karlstav/cava](https://github.com/karlstav/cava)
-<!--END_SECTION:activity-->
-  
+## 📃 Summary
+
+
 </details>
 <hr>
 <details open>
