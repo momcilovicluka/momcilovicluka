@@ -253,7 +253,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
-
 ## 👷 Check out what I'm currently working on
 
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 week ago)
@@ -289,6 +288,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (1 week ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (5 months ago)
 
+## 📓 Gists I wrote
+
+
 ## ⭐ Recent Stars
 
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (3 months ago)
@@ -296,6 +298,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 &amp; 2023 inc. (5 months ago)
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. (6 months ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 year ago)
+
+## ❤️ These awesome people sponsor me (thank you!)
+
 
 ## 👯 Check out some of my recent followers
 
