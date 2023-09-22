@@ -287,6 +287,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
+#### 📃 Summary
 <!--START_SECTION:activity-->
 
 </details>
