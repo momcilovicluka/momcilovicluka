@@ -254,11 +254,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:02 21 September 2023)
 -   📺 Watched episode 9 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:08 20 September 2023)
 -   📺 Completed [My Happy Marriage](https://anilist.co/anime/147103) (21:24 20 September 2023)
 -   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:47 20 September 2023)
 -   📺 Watched episode 8 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (21:38 19 September 2023)
--   📺 Watched episode 8 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (22:20 18 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
