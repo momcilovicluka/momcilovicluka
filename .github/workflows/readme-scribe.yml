@@ -3,7 +3,6 @@ name: Update README with readme-scribe
 on:
   schedule:
     - cron: "59 23 31 2 *"
-  workflow_dispatch:
 
 jobs:
   markscribe:
