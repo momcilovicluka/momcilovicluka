@@ -252,6 +252,8 @@ PHP                      1 repo              █░░░░░░░░░░�
 1. 💪 Opened PR [#526](https://github.com/karlstav/cava/pull/526) in [karlstav/cava](https://github.com/karlstav/cava)
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:cp-->
+
 ## 👷 Check out what I'm currently working on
 
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 week ago)
@@ -302,6 +304,8 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [lexash707](https://github.com/lexash707)
 - [jandric162](https://github.com/jandric162)
 - [natasaz13](https://github.com/natasaz13)
+
+<!--END_SECTION:cp-->
 
 </details>
 <hr>
