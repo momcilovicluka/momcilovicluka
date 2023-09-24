@@ -319,11 +319,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 11 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:35 22 September 2023)
--   📺 Watched episode 10 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:02 21 September 2023)
--   📺 Watched episode 9 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:08 20 September 2023)
--   📺 Completed [My Happy Marriage](https://anilist.co/anime/147103) (21:24 20 September 2023)
--   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (19:47 20 September 2023)
+-   📺 Completed [LOVE FLOPS](https://anilist.co/anime/146676) (23:09 23 September 2023)
+-   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (17:53 23 September 2023)
+-   📺 Watched episode 1 of [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (17:43 23 September 2023)
+-   📺 Completed [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (16:05 23 September 2023)
+-   📺 Watched episode 11 of [LOVE FLOPS](https://anilist.co/anime/146676) (16:03 23 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
