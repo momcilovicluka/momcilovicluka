@@ -320,11 +320,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (22:58 24 September 2023)
+-   📺 Completed [Classroom for Heroes](https://anilist.co/anime/139606) (22:33 24 September 2023)
 -   📺 Completed [LOVE FLOPS](https://anilist.co/anime/146676) (23:09 23 September 2023)
 -   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (17:53 23 September 2023)
 -   📺 Watched episode 1 of [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (17:43 23 September 2023)
--   📺 Completed [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (16:05 23 September 2023)
--   📺 Watched episode 11 of [LOVE FLOPS](https://anilist.co/anime/146676) (16:03 23 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
