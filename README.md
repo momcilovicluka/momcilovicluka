@@ -320,11 +320,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (20:35 27 September 2023)
 -   📺 Completed [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:34 26 September 2023)
 -   📺 Watched episode 12 of [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:11 26 September 2023)
 -   📺 Watched episode 9 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (22:33 25 September 2023)
 -   📺 Watched episode 11 of [Am I Actually the Strongest?](https://anilist.co/anime/154391) (22:11 25 September 2023)
--   📺 Completed [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (22:58 24 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
