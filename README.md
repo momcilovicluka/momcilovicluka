@@ -265,7 +265,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (5 months ago)
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u (6 months ago)
 - [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (6 months ago)
-- [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter (6 months ago)
+- [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter (7 months ago)
 
 ## 🌱 My latest projects
 
