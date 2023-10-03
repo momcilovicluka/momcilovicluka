@@ -319,11 +319,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (14:30 02 October 2023)
 -   📺 Completed [Am I Actually the Strongest?](https://anilist.co/anime/154391) (22:46 30 September 2023)
 -   📺 Watched episode 6 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (22:15 29 September 2023)
 -   📺 Watched episode 3 - 5 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (23:59 28 September 2023)
 -   📺 Watched episode 1 - 2 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (20:35 27 September 2023)
--   📺 Completed [Moriarty the Patriot Part 2](https://anilist.co/anime/124858) (22:34 26 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
