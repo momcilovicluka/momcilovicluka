@@ -258,10 +258,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 week ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 week ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (1 week ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (2 weeks ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (3 weeks ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (1 month ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (2 months ago)
-- [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (5 months ago)
+- [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (6 months ago)
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u (6 months ago)
 - [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (6 months ago)
 - [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter (7 months ago)
@@ -285,8 +285,8 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (2 weeks ago)
-- [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (5 months ago)
+- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (3 weeks ago)
+- [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (6 months ago)
 
 ## 📓 Gists I wrote
 
