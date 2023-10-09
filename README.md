@@ -319,11 +319,11 @@ PHP                      1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:20 08 October 2023)
+-   📺 Watched episode 1 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (20:56 08 October 2023)
+-   📺 Watched episode 1 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (20:33 08 October 2023)
 -   📺 Watched episode 1 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (22:08 04 October 2023)
 -   📺 Watched episode 7 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (14:30 02 October 2023)
--   📺 Completed [Am I Actually the Strongest?](https://anilist.co/anime/154391) (22:46 30 September 2023)
--   📺 Watched episode 6 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (22:15 29 September 2023)
--   📺 Watched episode 3 - 5 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (23:59 28 September 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
