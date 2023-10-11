@@ -3,7 +3,7 @@
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (2 weeks ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (2 weeks ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (2 weeks ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (3 weeks ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (4 weeks ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (1 month ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (3 months ago)
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (6 months ago)
@@ -26,11 +26,11 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 1 month ago) - Cross-platform Audio Visualizer
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 2 months ago) - Cross-platform Audio Visualizer
 
 ## 🔨 My recent Pull Requests
 
-- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (3 weeks ago)
+- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (4 weeks ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (6 months ago)
 
 ## 📓 Gists I wrote
