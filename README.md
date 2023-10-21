@@ -258,10 +258,10 @@ C#                       1 repo              █░░░░░░░░░░�
 ## 👷 Check out what I'm currently working on
 
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 week ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (3 weeks ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (4 weeks ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (4 weeks ago)
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 month ago)
-- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (1 month ago)
+- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (2 months ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (3 months ago)
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (6 months ago)
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u (6 months ago)
