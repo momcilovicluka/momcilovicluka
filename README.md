@@ -326,11 +326,11 @@ C#                       1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Undead Unluck](https://anilist.co/anime/154116) (22:41 27 October 2023)
+-   📺 Watched episode 3 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:20 27 October 2023)
 -   📺 Watched episode 3 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (21:59 26 October 2023)
 -   📺 Watched episode 3 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (21:37 26 October 2023)
 -   📺 Watched episode 3 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (21:15 26 October 2023)
--   📺 Watched episode 2 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (21:42 22 October 2023)
--   📺 Watched episode 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:05 17 October 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
