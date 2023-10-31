@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 day ago)
+- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (2 days ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (1 month ago)
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 month ago)
@@ -9,7 +9,7 @@
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (6 months ago)
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u (7 months ago)
 - [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (7 months ago)
-- [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter (7 months ago)
+- [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter (8 months ago)
 
 ## 🌱 My latest projects
 
