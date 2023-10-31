@@ -327,11 +327,11 @@ C#                       1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (23:16 30 October 2023)
 -   📺 Watched episode 4 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (23:03 29 October 2023)
 -   📺 Watched episode 4 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (22:41 29 October 2023)
 -   📺 Watched episode 4 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (22:13 28 October 2023)
 -   📺 Watched episode 3 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:50 28 October 2023)
--   📺 Watched episode 3 of [Undead Unluck](https://anilist.co/anime/154116) (22:41 27 October 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
