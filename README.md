@@ -329,11 +329,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (23:22 08 November 2023)
+-   📺 Watched episode 6 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (23:02 08 November 2023)
+-   📖 Read chapter 4 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (16:31 08 November 2023)
 -   📺 Watched episode 5 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (22:32 07 November 2023)
 -   📺 Watched episode 5 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (22:10 07 November 2023)
--   📖 Read chapter 3 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (21:45 07 November 2023)
--   📺 Plans to watch [Eiyuu Kyoushitsu OVA](https://anilist.co/anime/167140) (20:23 07 November 2023)
--   📺 Watched episode 5 of [Undead Unluck](https://anilist.co/anime/154116) (23:19 05 November 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
