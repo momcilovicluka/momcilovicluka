@@ -26,7 +26,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 2 months ago) - Cross-platform Audio Visualizer
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 3 months ago) - Cross-platform Audio Visualizer
 
 ## 🔨 My recent Pull Requests
 
