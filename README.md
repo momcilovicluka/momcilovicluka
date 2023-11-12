@@ -259,12 +259,12 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 day ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 days ago)
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (1 week ago)
-- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 week ago)
+- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (2 weeks ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (1 month ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 month ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (2 months ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (2 months ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (4 months ago)
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (7 months ago)
@@ -289,7 +289,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (1 month ago)
+- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (2 months ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (7 months ago)
 
 ## 📓 Gists I wrote
