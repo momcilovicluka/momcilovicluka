@@ -263,19 +263,20 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (6 days ago)
-- [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (2 weeks ago)
+- [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java (2 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
+- [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (3 weeks ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (3 weeks ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
-- [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (1 month ago)
+- [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (2 months ago)
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (2 months ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (3 months ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (4 months ago)
 - [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) -  (7 months ago)
-- [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u (7 months ago)
 
 ## 🌱 My latest projects
 
+- [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup.
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours
@@ -285,10 +286,10 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 - [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter
 - [momcilovicluka/peygr-back-end](https://github.com/momcilovicluka/peygr-back-end) - A server back end part of the peygr system
 - [momcilovicluka/peygr-front-end](https://github.com/momcilovicluka/peygr-front-end) - A client front end part of the peygr system
-- [momcilovicluka/peygr](https://github.com/momcilovicluka/peygr) - A pager like chat application made with react
 
 ## 🔭 Latest releases I've contributed to
 
+- [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 2 days ago) - Puzzle solving game made in android studio using java
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 3 months ago) - Cross-platform Audio Visualizer
 
 ## 🔨 My recent Pull Requests
