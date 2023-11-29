@@ -328,11 +328,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (22:42 28 November 2023)
 -   📖 Read chapter 3 - 4 of [Scum's Wish Décor](https://anilist.co/manga/100774) (23:23 27 November 2023)
 -   📺 Watched episode 8 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (20:27 26 November 2023)
 -   📺 Watched episode 8 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (22:45 24 November 2023)
 -   📺 Watched episode 7 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (22:23 24 November 2023)
--   📺 Watched episode 8 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (22:33 22 November 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
