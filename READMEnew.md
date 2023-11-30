@@ -1,9 +1,9 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 days ago)
-- [momcilovicluka/seds-projekat](https://github.com/momcilovicluka/seds-projekat) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (1 week ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 day ago)
+- [momcilovicluka/seds-projekat](https://github.com/momcilovicluka/seds-projekat) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (1 day ago)
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java (1 week ago)
-- [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (4 weeks ago)
+- [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (1 month ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 month ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (2 months ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (2 months ago)
@@ -39,7 +39,7 @@
 
 ## ⭐ Recent Stars
 
-- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (3 weeks ago)
+- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (4 weeks ago)
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (5 months ago)
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool (6 months ago)
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 &amp; 2023 inc. (8 months ago)
