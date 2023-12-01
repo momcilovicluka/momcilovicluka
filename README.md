@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momcilovicluka&theme=algolia&margin-w=10&margin-h=2&column=8&no-frame=true" alt="momcilovicluka" /></a></p>
 
 <hr>
-<details open>
+<details>
   <summary>✒WakaTime Stats</summary>
   <hr>
   
