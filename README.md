@@ -210,7 +210,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#526](https://github.com/karlstav/cava/pull/526) in [karlstav/cava](https://github.com/karlstav/cava)
+1. 🚀 Published release [Initial release](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0) in [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
