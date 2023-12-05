@@ -255,7 +255,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial release](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0) in [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive)
+1. 🚀 Published release [Initial release](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0) in [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
