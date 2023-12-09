@@ -330,11 +330,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Undead Unluck](https://anilist.co/anime/154116) (22:49 08 December 2023)
+-   📺 Watched episode 10 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (22:10 08 December 2023)
+-   📺 Watched episode 10 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (21:46 08 December 2023)
 -   📺 Watched episode 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (22:49 06 December 2023)
 -   📺 Watched episode 9 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (21:41 05 December 2023)
--   📺 Watched episode 9 of [Undead Unluck](https://anilist.co/anime/154116) (23:13 04 December 2023)
--   📺 Watched episode 8 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (22:24 03 December 2023)
--   📺 Watched episode 9 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:59 03 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
