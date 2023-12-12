@@ -255,7 +255,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial release](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0) in [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime)
+1. 🔒 Closed issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
