@@ -17,3 +17,6 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
+          COMMIT_MESSAGE: "⌚ Update README with WakaTime activity"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
