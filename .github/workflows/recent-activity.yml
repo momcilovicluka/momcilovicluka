@@ -1,4 +1,4 @@
-name: Update recent activity in README with github-activity-readme
+name: Workflow update recent activity
 
 on:
   schedule:
@@ -10,7 +10,11 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          MAX_LINES: 5
+          COMMIT_NAME:	github-actions[bot]
+          COMMIT_EMAIL:	41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG:	⚡ Update README with recent activity
