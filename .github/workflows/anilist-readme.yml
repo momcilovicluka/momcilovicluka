@@ -1,4 +1,4 @@
-name: Anilist Readme
+name: Update README with anilist-readme
 
 on:
   schedule:
