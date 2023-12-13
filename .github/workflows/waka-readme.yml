@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update README with waka-readme-stats
 
 on:
   schedule:
