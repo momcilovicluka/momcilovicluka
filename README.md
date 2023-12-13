@@ -255,7 +255,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/JaKooLit/Hyprland-Dots/pull/65) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
