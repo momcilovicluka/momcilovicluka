@@ -18,5 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Workflow update recent activity'
-          COMMIT_NAME: GitHub Recent Activity Readme
+          COMMIT_MSG: Workflow update recent activity
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: actions@github.com
+          MAX_LINES: 5
+          TARGET_FILE: README.md
