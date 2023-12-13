@@ -16,3 +16,6 @@ jobs:
           user_id: 5492163
           timezone: "Europe/Belgrade"
           date_format: "{h}:{m} {D}-{MW}-{Y}"
+          commit_message:	"📺 Update README with anilist activity"
+          commit_username: "github-actions[bot]"
+          commit_email:	"41898282+github-actions[bot]@users.noreply.github.com"
