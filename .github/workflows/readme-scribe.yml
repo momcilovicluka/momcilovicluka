@@ -25,9 +25,9 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
       - uses: ShreyamMaity/Copy-Paste-Action@V2.0
         with:
