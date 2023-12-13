@@ -1,4 +1,4 @@
-name: Workflow update recent activity
+name: Update recent activity in README
 
 on:
   schedule:
