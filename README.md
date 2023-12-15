@@ -255,11 +255,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/JaKooLit/Hyprland-Dots/pull/65) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
-2. 🔒 Closed issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
-3. ❗ Opened issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
-4. 🚀 Published release [Initial release](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0) in [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime)
-5. 🚀 Published release [Initial release](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0) in [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive)
+1. 💪 Opened PR [#71](https://github.com/JaKooLit/Hyprland-Dots/pull/71) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+2. 💪 Opened PR [#65](https://github.com/JaKooLit/Hyprland-Dots/pull/65) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+3. 🔒 Closed issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
+4. ❗ Opened issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
+5. 🚀 Published release [Initial release](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0) in [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
