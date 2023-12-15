@@ -335,11 +335,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 of [Scum's Wish Décor](https://anilist.co/manga/100774) (22:29 14 December 2023)
+-   📖 Completed [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (21:45 14 December 2023)
+-   📖 Read chapter 14 - 16 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (21:25 14 December 2023)
+-   📺 Watched episode 10 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (21:02 14 December 2023)
 -   📺 Watched episode 10 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (22:37 11 December 2023)
--   📺 Watched episode 10 of [Undead Unluck](https://anilist.co/anime/154116) (22:49 08 December 2023)
--   📺 Watched episode 10 of [I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://anilist.co/anime/154214) (22:10 08 December 2023)
--   📺 Watched episode 10 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (21:46 08 December 2023)
--   📺 Watched episode 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (22:49 06 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
