@@ -331,11 +331,11 @@ PLSQL                    1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (08:05 16 December 2023)
 -   📺 Watched episode 11 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (00:27 16 December 2023)
 -   📺 Watched episode 11 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (00:03 16 December 2023)
 -   📖 Read chapter 5 of [Scum's Wish Décor](https://anilist.co/manga/100774) (22:29 14 December 2023)
 -   📖 Completed [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (21:45 14 December 2023)
--   📖 Read chapter 14 - 16 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (21:25 14 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
