@@ -263,14 +263,14 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ## 👷 Check out what I'm currently working on
 
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 day ago)
-- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (5 days ago)
+- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (6 days ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (1 week ago)
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (2 weeks ago)
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (2 weeks ago)
 - [momcilovicluka/seds-projekat](https://github.com/momcilovicluka/seds-projekat) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (3 weeks ago)
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java (1 month ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 month ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (2 months ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (3 months ago)
 - [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (3 months ago)
 
 ## 🌱 My latest projects
@@ -288,7 +288,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2-2), 2 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2-2), 3 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 2 weeks ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 2 weeks ago) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 1 month ago) - Puzzle solving game made in android studio using java
@@ -309,7 +309,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 - [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (1 month ago)
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (6 months ago)
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool (7 months ago)
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 &amp; 2023 inc. (8 months ago)
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 &amp; 2023 inc. (9 months ago)
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. (9 months ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 year ago)
 
