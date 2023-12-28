@@ -337,11 +337,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (21:52 27 December 2023)
+-   📺 Completed [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (21:43 27 December 2023)
 -   📺 Watched episode 11 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (22:40 26 December 2023)
 -   📖 Read chapter 5 of [Scum's Wish Décor](https://anilist.co/manga/100774) (06:48 26 December 2023)
 -   📺 Watched episode 10 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (22:38 25 December 2023)
--   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:49 24 December 2023)
--   📺 Completed [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (21:25 24 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
