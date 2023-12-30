@@ -339,11 +339,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:33 29 December 2023)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:16 28 December 2023)
 -   📺 Completed [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (21:38 28 December 2023)
 -   📺 Watched episode 11 of [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (21:52 27 December 2023)
 -   📺 Completed [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (21:43 27 December 2023)
--   📺 Watched episode 11 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (22:40 26 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
