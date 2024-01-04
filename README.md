@@ -337,11 +337,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 - 5 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:50 03 January 2024)
 -   📺 Watched episode 2 - 3 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:57 02 January 2024)
 -   📖 Completed [Scum's Wish Décor](https://anilist.co/manga/100774) (09:14 02 January 2024)
 -   📺 Watched episode 1 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (23:33 01 January 2024)
 -   📺 Watched episode 3 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:51 01 January 2024)
--   📺 Watched episode 13 of [Undead Unluck](https://anilist.co/anime/154116) (22:29 30 December 2023)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
