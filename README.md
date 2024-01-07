@@ -339,11 +339,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 - 11 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:58 06 January 2024)
+-   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (21:47 06 January 2024)
 -   📺 Watched episode 8 - 9 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:18 05 January 2024)
 -   📺 Watched episode 5 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (21:34 05 January 2024)
 -   📺 Watched episode 6 - 7 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:15 04 January 2024)
--   📺 Watched episode 4 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (21:32 04 January 2024)
--   📺 Watched episode 4 - 5 of [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:50 03 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
