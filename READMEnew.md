@@ -26,16 +26,17 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.3-hotfix2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.3-hotfix2), 2 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.3-hotfix2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.3-hotfix2), 3 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 month ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 1 month ago) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 1 month ago) - Puzzle solving game made in android studio using java
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 4 months ago) - Cross-platform Audio Visualizer
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.9.1](https://github.com/karlstav/cava/releases/tag/0.9.1), 5 months ago) - Cross-platform Audio Visualizer
 
 ## 🔨 My recent Pull Requests
 
+- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (1 day ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (3 weeks ago)
-- [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (3 weeks ago)
+- [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 weeks ago)
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (3 months ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (9 months ago)
 
