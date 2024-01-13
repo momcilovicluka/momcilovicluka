@@ -269,21 +269,22 @@ Shell                    2 repos             ██░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - REST api for anime. Faculty project for CBD/RZK (4 days ago)
+- [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (1 day ago)
+- [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - REST api for anime. Faculty project for CBD/RZK (5 days ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (2 weeks ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 weeks ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (4 weeks ago)
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (1 month ago)
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (1 month ago)
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (1 month ago)
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java (1 month ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (2 months ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (3 months ago)
-- [momcilovicluka/rainmeter](https://github.com/momcilovicluka/rainmeter) - My rainmeter configuration and customisation (3 months ago)
 
 ## 🌱 My latest projects
 
 - [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - REST api for anime. Faculty project for CBD/RZK
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
+- [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) - Puzzle solving game made in android studio using java
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup.
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods
@@ -291,20 +292,19 @@ Shell                    2 repos             ██░░░░░░░░░�
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/marvel-snap-deck](https://github.com/momcilovicluka/marvel-snap-deck) - Repozitorij za Java Spring aplikaciju iz predmeta Razvoj Informacionih Sistema na PMF-u
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u
-- [momcilovicluka/bmi-calculator](https://github.com/momcilovicluka/bmi-calculator) - Bmi Calculator made in Flutter
 
 ## 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.0](https://github.com/karlstav/cava/releases/tag/0.10.0), 3 days ago) - Cross-platform Audio Visualizer
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.3-hotfix2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.3-hotfix2), 6 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.0](https://github.com/karlstav/cava/releases/tag/0.10.0), 4 days ago) - Cross-platform Audio Visualizer
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.3-hotfix2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.3-hotfix2), 1 week ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 month ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 1 month ago) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 1 month ago) - Puzzle solving game made in android studio using java
 
 ## 🔨 My recent Pull Requests
 
-- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 days ago)
-- [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 weeks ago)
+- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (5 days ago)
+- [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (1 month ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (1 month ago)
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (4 months ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (9 months ago)
