@@ -341,11 +341,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA](https://anilist.co/anime/125368) (22:24 07 January 2024)
--   📺 Plans to watch [Kaguya-sama: Love is War -Ultra Romantic- "Yu Ishigami Wants to Chat"](https://anilist.co/anime/165557) (22:23 07 January 2024)
--   📺 Plans to watch [Kaguya-sama: Love is War -The First Kiss That Never Ends-](https://anilist.co/anime/151384) (22:23 07 January 2024)
--   📺 Plans to watch [Kaguya-sama: Love is War -Ultra Romantic-](https://anilist.co/anime/125367) (22:22 07 January 2024)
--   📺 Completed [Kaguya-sama: Love is War?](https://anilist.co/anime/112641) (22:17 07 January 2024)
+-   📺 Watched episode 10 - 11 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:27 12 January 2024)
+-   📺 Watched episode 1 of [The Witch and the Beast](https://anilist.co/anime/153818) (12:07 12 January 2024)
+-   📺 Watched episode 1 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (12:06 12 January 2024)
+-   📺 Watched episode 1 of [A Sign of Affection](https://anilist.co/anime/166794) (12:06 12 January 2024)
+-   📺 Watched episode 2 of [Chained Soldier](https://anilist.co/anime/141821) (12:05 12 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
