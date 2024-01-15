@@ -341,11 +341,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (22:38 14 January 2024)
+-   📺 Watched episode 2 of [Solo Leveling](https://anilist.co/anime/151807) (21:47 14 January 2024)
+-   📺 Watched episode 14 of [Undead Unluck](https://anilist.co/anime/154116) (14:01 14 January 2024)
 -   📺 Watched episode 2 of [A Sign of Affection](https://anilist.co/anime/166794) (00:06 14 January 2024)
 -   📺 Completed [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (23:45 13 January 2024)
--   📺 Watched episode 10 - 11 of [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (21:27 12 January 2024)
--   📺 Watched episode 1 of [The Witch and the Beast](https://anilist.co/anime/153818) (12:07 12 January 2024)
--   📺 Watched episode 1 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (12:06 12 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
