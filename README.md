@@ -339,11 +339,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 6 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:44 18 January 2024)
--   📺 Watched episode 3 of [Chained Soldier](https://anilist.co/anime/141821) (23:00 18 January 2024)
--   📺 Watched episode 3 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (22:46 17 January 2024)
--   📺 Completed [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA](https://anilist.co/anime/125368) (22:29 16 January 2024)
--   📺 Completed [Kaguya-sama: Love is War -Ultra Romantic- "Yu Ishigami Wants to Chat"](https://anilist.co/anime/165557) (22:08 16 January 2024)
+-   📺 Watched episode 7 - 8 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:32 19 January 2024)
+-   📺 Watched episode 15 of [Undead Unluck](https://anilist.co/anime/154116) (22:25 19 January 2024)
+-   📺 Completed [Your Name.](https://anilist.co/anime/21519) (21:44 19 January 2024)
+-   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (21:44 19 January 2024)
+-   📺 Watched episode 2 of [The Witch and the Beast](https://anilist.co/anime/153818) (06:41 19 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
