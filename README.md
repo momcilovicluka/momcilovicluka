@@ -339,11 +339,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:54 20 January 2024)
+-   📺 Watched episode 3 of [A Sign of Affection](https://anilist.co/anime/166794) (23:32 20 January 2024)
+-   📺 Watched episode 3 of [Solo Leveling](https://anilist.co/anime/151807) (23:10 20 January 2024)
 -   📺 Watched episode 7 - 8 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:32 19 January 2024)
 -   📺 Watched episode 15 of [Undead Unluck](https://anilist.co/anime/154116) (22:25 19 January 2024)
--   📺 Completed [Your Name.](https://anilist.co/anime/21519) (21:44 19 January 2024)
--   📺 Plans to watch [Your Name.](https://anilist.co/anime/21519) (21:44 19 January 2024)
--   📺 Watched episode 2 of [The Witch and the Beast](https://anilist.co/anime/153818) (06:41 19 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
