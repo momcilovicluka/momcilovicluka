@@ -1,9 +1,9 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (2 days ago)
+- [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (3 days ago)
 - [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (1 week ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (2 weeks ago)
-- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (4 weeks ago)
+- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (1 month ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 month ago)
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (1 month ago)
 - [momcilovicluka/discord](https://github.com/momcilovicluka/discord) - My discord theme, config and mods (1 month ago)
@@ -26,7 +26,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.0](https://github.com/karlstav/cava/releases/tag/0.10.0), 1 week ago) - Cross-platform Audio Visualizer
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.0](https://github.com/karlstav/cava/releases/tag/0.10.0), 2 weeks ago) - Cross-platform Audio Visualizer
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.3-hotfix2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.3-hotfix2), 2 weeks ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 month ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 1 month ago) - First person survival game made in unity for Seminarski rad C
