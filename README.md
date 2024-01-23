@@ -339,11 +339,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:41 22 January 2024)
 -   📺 Watched episode 9 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:54 20 January 2024)
 -   📺 Watched episode 3 of [A Sign of Affection](https://anilist.co/anime/166794) (23:32 20 January 2024)
 -   📺 Watched episode 3 of [Solo Leveling](https://anilist.co/anime/151807) (23:10 20 January 2024)
 -   📺 Watched episode 7 - 8 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:32 19 January 2024)
--   📺 Watched episode 15 of [Undead Unluck](https://anilist.co/anime/154116) (22:25 19 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
