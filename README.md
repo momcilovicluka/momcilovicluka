@@ -340,11 +340,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Domestic Girlfriend](https://anilist.co/anime/103139) (21:54 24 January 2024)
+-   📺 Watched episode 4 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:31 24 January 2024)
 -   📺 Watched episode 10 of [Domestic Girlfriend](https://anilist.co/anime/103139) (21:49 23 January 2024)
 -   📺 Watched episode 3 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (21:25 23 January 2024)
 -   📺 Watched episode 3 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:41 22 January 2024)
--   📺 Watched episode 9 of [Domestic Girlfriend](https://anilist.co/anime/103139) (23:54 20 January 2024)
--   📺 Watched episode 3 of [A Sign of Affection](https://anilist.co/anime/166794) (23:32 20 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
