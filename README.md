@@ -340,11 +340,11 @@ Shell                    2 repos             ██░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Domestic Girlfriend](https://anilist.co/anime/103139) (22:01 26 January 2024)
 -   📺 Watched episode 4 of [Chained Soldier](https://anilist.co/anime/141821) (23:04 25 January 2024)
 -   📺 Watched episode 11 of [Domestic Girlfriend](https://anilist.co/anime/103139) (21:54 24 January 2024)
 -   📺 Watched episode 4 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:31 24 January 2024)
 -   📺 Watched episode 10 of [Domestic Girlfriend](https://anilist.co/anime/103139) (21:49 23 January 2024)
--   📺 Watched episode 3 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (21:25 23 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
