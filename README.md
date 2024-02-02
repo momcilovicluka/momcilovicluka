@@ -340,11 +340,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Chained Soldier](https://anilist.co/anime/141821) (23:06 01 February 2024)
+-   📺 Watched episode 5 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (22:39 01 February 2024)
 -   📺 Watched episode 6 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:01 30 January 2024)
 -   📺 Watched episode 16 of [Undead Unluck](https://anilist.co/anime/154116) (21:38 30 January 2024)
 -   📺 Watched episode 4 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (21:30 29 January 2024)
--   📺 Watched episode 4 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:41 28 January 2024)
--   📺 Watched episode 4 of [A Sign of Affection](https://anilist.co/anime/166794) (22:21 27 January 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
