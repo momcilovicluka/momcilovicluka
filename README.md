@@ -57,14 +57,17 @@ Here are some ideas to get you started:
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer"> 
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="eclipse" width="40" height="40"/> 
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
   </a>
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -77,33 +80,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=css&sort=" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://discord.js.org/#/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
   </a>
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=php&sort=" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
