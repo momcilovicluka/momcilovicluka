@@ -309,11 +309,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 19 of [Undead Unluck](https://anilist.co/anime/154116) (22:22 24 February 2024)
+-   📺 Watched episode 8 of [A Sign of Affection](https://anilist.co/anime/166794) (21:59 24 February 2024)
 -   📺 Watched episode 8 of [Chained Soldier](https://anilist.co/anime/141821) (22:03 22 February 2024)
 -   📺 Watched episode 8 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (22:08 21 February 2024)
 -   📺 Watched episode 7 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (09:51 21 February 2024)
--   📺 Watched episode 6 of [The Witch and the Beast](https://anilist.co/anime/153818) (22:24 20 February 2024)
--   📺 Watched episode 7 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:25 19 February 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
