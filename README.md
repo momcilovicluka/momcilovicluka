@@ -309,11 +309,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:47 28 February 2024)
 -   📺 Watched episode 8 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (21:51 26 February 2024)
 -   📺 Watched episode 8 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (21:29 26 February 2024)
 -   📺 Watched episode 7 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (21:41 25 February 2024)
 -   📺 Watched episode 20 of [Undead Unluck](https://anilist.co/anime/154116) (21:18 25 February 2024)
--   📺 Watched episode 8 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (20:51 25 February 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
