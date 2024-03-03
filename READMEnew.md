@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (5 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (6 days ago)
 - [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (1 week ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (1 week ago)
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (2 weeks ago)
@@ -27,9 +27,9 @@
 ## 🔭 Latest releases I've contributed to
 
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.5](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.5), 1 week ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
-- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 2 weeks ago) - Anime app for android - RMA Faculty project
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.1](https://github.com/karlstav/cava/releases/tag/0.10.1), 4 weeks ago) - Cross-platform Audio Visualizer
-- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 2 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
+- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 3 weeks ago) - Anime app for android - RMA Faculty project
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.10.1](https://github.com/karlstav/cava/releases/tag/0.10.1), 1 month ago) - Cross-platform Audio Visualizer
+- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 3 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 3 months ago) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 3 months ago) - Puzzle solving game made in android studio using java
 
