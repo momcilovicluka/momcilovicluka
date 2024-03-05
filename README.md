@@ -309,11 +309,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:31 04 March 2024)
+-   📺 Watched episode 8 of [Solo Leveling](https://anilist.co/anime/151807) (22:09 04 March 2024)
 -   📺 Watched episode 9 of [A Sign of Affection](https://anilist.co/anime/166794) (22:50 03 March 2024)
 -   📺 Watched episode 9 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (22:27 03 March 2024)
 -   📺 Watched episode 21 of [Undead Unluck](https://anilist.co/anime/154116) (23:08 01 March 2024)
--   📺 Watched episode 9 of [Chained Soldier](https://anilist.co/anime/141821) (22:47 01 March 2024)
--   📺 Watched episode 9 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:47 28 February 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
