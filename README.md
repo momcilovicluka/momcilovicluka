@@ -310,11 +310,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [The Witch and the Beast](https://anilist.co/anime/153818) (22:35 06 March 2024)
+-   📺 Watched episode 10 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (22:13 06 March 2024)
+-   📺 Watched episode 9 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (21:46 06 March 2024)
 -   📺 Watched episode 9 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:31 04 March 2024)
 -   📺 Watched episode 8 of [Solo Leveling](https://anilist.co/anime/151807) (22:09 04 March 2024)
--   📺 Watched episode 9 of [A Sign of Affection](https://anilist.co/anime/166794) (22:50 03 March 2024)
--   📺 Watched episode 9 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (22:27 03 March 2024)
--   📺 Watched episode 21 of [Undead Unluck](https://anilist.co/anime/154116) (23:08 01 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
