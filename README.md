@@ -145,9 +145,9 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -190,16 +190,17 @@ Sunday                   165 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Lua                      0 secs              █████████████████████████   100.00 % 
+HTML                     1 min               ███████████████████░░░░░░   77.98 % 
+CSS                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nvim                     0 secs              █████████████████████████   100.00 % 
+Vezbe                    1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -215,7 +216,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2024 00:37:37 UTC
+ Last Updated on 08/03/2024 00:45:58 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
