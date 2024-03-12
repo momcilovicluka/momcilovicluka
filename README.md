@@ -253,7 +253,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (4 weeks ago)
 - [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (1 month ago)
 - [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course (1 month ago)
-- [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (1 month ago)
+- [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (2 months ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (2 months ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (2 months ago)
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (3 months ago)
@@ -274,7 +274,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 ## 🔭 Latest releases I've contributed to
 
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.5](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.5), 3 weeks ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
-- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 4 weeks ago) - Anime app for android - RMA Faculty project
+- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 1 month ago) - Anime app for android - RMA Faculty project
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.1](https://github.com/karlstav/cava/releases/tag/0.10.1), 1 month ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 3 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 3 months ago) - First person survival game made in unity for Seminarski rad C
