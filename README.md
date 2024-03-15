@@ -320,11 +320,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 18 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:57 14 March 2024)
+-   📺 Watched episode 9 of [The Witch and the Beast](https://anilist.co/anime/153818) (22:34 14 March 2024)
+-   📺 Watched episode 11 of [Chained Soldier](https://anilist.co/anime/141821) (22:12 14 March 2024)
+-   📺 Watched episode 11 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:49 14 March 2024)
 -   📺 Watched episode 17 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (21:51 12 March 2024)
--   📺 Watched episode 10 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (22:41 11 March 2024)
--   📺 Watched episode 10 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:19 11 March 2024)
--   📺 Watched episode 10 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (21:58 11 March 2024)
--   📺 Watched episode 15 - 16 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (19:17 10 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
