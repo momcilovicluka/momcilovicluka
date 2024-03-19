@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (23:02 18 March 2024)
+-   📺 Watched episode 11 of [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:38 18 March 2024)
 -   📺 Watched episode 11 of [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (23:00 17 March 2024)
 -   📺 Watched episode 11 of [A Sign of Affection](https://anilist.co/anime/166794) (22:07 16 March 2024)
 -   📺 Watched episode 10 of [Solo Leveling](https://anilist.co/anime/151807) (21:45 16 March 2024)
--   📺 Watched episode 23 of [Undead Unluck](https://anilist.co/anime/154116) (20:35 16 March 2024)
--   📺 Watched episode 18 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:57 14 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
