@@ -254,7 +254,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course (1 month ago)
 - [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (2 months ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (2 months ago)
-- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (2 months ago)
+- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (3 months ago)
 
 ## 🌱 My latest projects
 
@@ -271,7 +271,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.6](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.6), 4 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.6](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.6), 5 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 1 month ago) - Anime app for android - RMA Faculty project
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.1](https://github.com/karlstav/cava/releases/tag/0.10.1), 1 month ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 3 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
