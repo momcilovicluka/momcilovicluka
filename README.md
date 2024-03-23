@@ -318,11 +318,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Undead Unluck](https://anilist.co/anime/154116) (23:04 22 March 2024)
+-   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:40 22 March 2024)
+-   📺 Plans to watch [Mato Seihei no Slave 2nd Season](https://anilist.co/anime/176276) (17:38 22 March 2024)
 -   📺 Watched episode 26 - 27 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:59 21 March 2024)
 -   📺 Completed [Chained Soldier](https://anilist.co/anime/141821) (22:15 21 March 2024)
--   📺 Watched episode 23 - 25 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:59 20 March 2024)
--   📺 Watched episode 12 of [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:53 20 March 2024)
--   📺 Watched episode 19 - 22 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (22:53 19 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
