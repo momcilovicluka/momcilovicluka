@@ -312,11 +312,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (22:31 26 March 2024)
 -   📺 Completed [The Foolish Angel Dances with the Devil](https://anilist.co/anime/164244) (22:56 25 March 2024)
 -   📺 Completed [Hokkaido Gals Are Super Adorable!](https://anilist.co/anime/155963) (22:34 25 March 2024)
 -   📺 Watched episode 10 of [The Witch and the Beast](https://anilist.co/anime/153818) (22:57 24 March 2024)
 -   📺 Completed [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/anime/168374) (22:35 24 March 2024)
--   📺 Completed [A Sign of Affection](https://anilist.co/anime/166794) (22:20 23 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
