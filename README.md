@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (23:02 29 March 2024)
 -   📺 Watched episode 8 - 9 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (23:10 28 March 2024)
 -   📺 Watched episode 11 of [The Witch and the Beast](https://anilist.co/anime/153818) (22:25 28 March 2024)
 -   📺 Watched episode 1 of [Gods' Games We Play](https://anilist.co/anime/144176) (22:05 28 March 2024)
 -   📺 Watched episode 6 - 7 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (22:24 27 March 2024)
--   📺 Completed [Gushing Over Magical Girls](https://anilist.co/anime/162780) (21:37 27 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
