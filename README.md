@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Spice and Wolf: merchant meets the wise wolf](https://anilist.co/anime/145728) (22:12 01 April 2024)
 -   📺 Completed [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (22:23 31 March 2024)
 -   📺 Watched episode 1 of [Studio Apartment, Good Lighting, Angel Included](https://anilist.co/anime/169927) (23:17 30 March 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (22:52 30 March 2024)
 -   📺 Watched episode 11 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (22:28 30 March 2024)
--   📺 Watched episode 10 of [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (23:02 29 March 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
