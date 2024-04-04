@@ -243,9 +243,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (6 days ago)
-- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (2 weeks ago)
-- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (2 weeks ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
+- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (3 weeks ago)
+- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (3 weeks ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (1 month ago)
 - [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (1 month ago)
 - [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (2 months ago)
