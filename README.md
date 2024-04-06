@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Unnamed Memory](https://anilist.co/anime/158709) (22:59 05 April 2024)
+-   📺 Watched episode 2 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:34 05 April 2024)
 -   📺 Watched episode 1 of [A Condition Called Love](https://anilist.co/anime/165855) (23:00 04 April 2024)
 -   📺 Watched episode 1 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:34 04 April 2024)
 -   📺 Completed [The Witch and the Beast](https://anilist.co/anime/153818) (22:05 04 April 2024)
--   📺 Plans to watch [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (19:52 03 April 2024)
--   📺 Plans to watch [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (10:43 02 April 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
