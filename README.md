@@ -308,11 +308,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Studio Apartment, Good Lighting, Angel Included](https://anilist.co/anime/169927) (20:48 07 April 2024)
 -   📺 Watched episode 1 of [Unnamed Memory](https://anilist.co/anime/158709) (22:59 05 April 2024)
 -   📺 Watched episode 2 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:34 05 April 2024)
 -   📺 Watched episode 1 of [A Condition Called Love](https://anilist.co/anime/165855) (23:00 04 April 2024)
 -   📺 Watched episode 1 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:34 04 April 2024)
--   📺 Completed [The Witch and the Beast](https://anilist.co/anime/153818) (22:05 04 April 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
