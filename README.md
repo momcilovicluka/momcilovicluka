@@ -230,7 +230,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 ## 🔨 My recent Pull Requests
 
 - [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (3 months ago)
-- [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (3 months ago)
+- [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 months ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 months ago)
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (7 months ago)
 - [Fix spelling](https://github.com/daliborstakic/hospital-web/pull/1) on [daliborstakic/hospital-web](https://github.com/daliborstakic/hospital-web) (1 year ago)
