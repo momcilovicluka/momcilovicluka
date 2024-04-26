@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [A Condition Called Love](https://anilist.co/anime/165855) (22:11 25 April 2024)
+-   📺 Watched episode 5 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (21:50 25 April 2024)
 -   📺 Watched episode 4 of [Gods' Games We Play](https://anilist.co/anime/144176) (21:21 24 April 2024)
 -   📺 Watched episode 3 of [Unnamed Memory](https://anilist.co/anime/158709) (20:59 24 April 2024)
 -   📺 Watched episode 4 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (21:23 23 April 2024)
--   📺 Watched episode 3 of [Gods' Games We Play](https://anilist.co/anime/144176) (22:30 22 April 2024)
--   📺 Watched episode 4 of [Studio Apartment, Good Lighting, Angel Included](https://anilist.co/anime/169927) (22:08 22 April 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
