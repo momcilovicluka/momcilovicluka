@@ -314,11 +314,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Gods' Games We Play](https://anilist.co/anime/144176) (22:12 29 April 2024)
+-   📺 Watched episode 5 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (21:50 29 April 2024)
 -   📺 Watched episode 5 of [Studio Apartment, Good Lighting, Angel Included](https://anilist.co/anime/169927) (22:33 27 April 2024)
 -   📺 Watched episode 3 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (23:00 26 April 2024)
 -   📺 Watched episode 4 of [A Condition Called Love](https://anilist.co/anime/165855) (22:11 25 April 2024)
--   📺 Watched episode 5 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (21:50 25 April 2024)
--   📺 Watched episode 4 of [Gods' Games We Play](https://anilist.co/anime/144176) (21:21 24 April 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
