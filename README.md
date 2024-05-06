@@ -311,7 +311,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (23:43 04 May 2024)
+-   📺 Watched episode 4 - 9 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (23:02 05 May 2024)
 -   📺 Watched episode 3 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (07:43 04 May 2024)
 -   📺 Watched episode 4 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (23:18 03 May 2024)
 -   📺 Watched episode 5 of [A Condition Called Love](https://anilist.co/anime/165855) (22:08 02 May 2024)
