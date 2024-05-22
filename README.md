@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (20:47 21 May 2024)
+-   📖 Read chapter 48 - 49 of [The Kingdoms of Ruin](https://anilist.co/manga/112203) (20:23 21 May 2024)
 -   📺 Watched episode 6 of [Unnamed Memory](https://anilist.co/anime/158709) (21:38 16 May 2024)
 -   📺 Watched episode 7 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:33 10 May 2024)
 -   📺 Watched episode 5 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (22:12 10 May 2024)
--   📺 Watched episode 6 of [Gods' Games We Play](https://anilist.co/anime/144176) (23:44 07 May 2024)
--   📺 Watched episode 5 of [Unnamed Memory](https://anilist.co/anime/158709) (23:20 07 May 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
