@@ -26,7 +26,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.12](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.12), 5 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.12](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.12), 6 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 2 weeks ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 3 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 5 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -47,7 +47,7 @@
 ## ⭐ Recent Stars
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (1 month ago)
-- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (6 months ago)
+- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (7 months ago)
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (11 months ago)
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool (1 year ago)
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.  (1 year ago)
