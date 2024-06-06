@@ -250,7 +250,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (4 months ago)
 - [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course (4 months ago)
 - [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (4 months ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (4 months ago)
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (5 months ago)
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (5 months ago)
 
 ## 🌱 My latest projects
@@ -268,7 +268,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.13](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.13), 2 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.13-1](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.13-1), 1 day ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 weeks ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 3 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 6 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (4 months ago)
+- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (5 months ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (5 months ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (5 months ago)
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (8 months ago)
