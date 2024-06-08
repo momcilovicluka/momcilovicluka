@@ -26,7 +26,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.13-1](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.13-1), 2 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.2.13-1](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.2.13-1), 3 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 weeks ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 3 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 6 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
