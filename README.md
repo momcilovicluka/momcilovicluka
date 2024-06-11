@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:50 10 June 2024)
 -   📺 Watched episode 8 of [Unnamed Memory](https://anilist.co/anime/158709) (22:17 01 June 2024)
 -   📺 Watched episode 10 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (21:55 01 June 2024)
 -   📺 Watched episode 7 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (21:33 01 June 2024)
 -   📺 Watched episode 7 of [Unnamed Memory](https://anilist.co/anime/158709) (23:21 24 May 2024)
--   📺 Watched episode 9 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (22:59 24 May 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
