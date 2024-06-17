@@ -145,6 +145,8 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -153,7 +155,7 @@ Here are some ideas to get you started:
 
 > 📦 672.5 kB Used in GitHub's Storage 
  > 
-> 🏆 509 Contributions in the Year 2024
+> 🏆 510 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -161,6 +163,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+🌆 Daytime                394 commits         ████████░░░░░░░░░░░░░░░░░   33.45 % 
+🌃 Evening                448 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌙 Night                  284 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Tuesday                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Wednesday                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Friday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Saturday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Sunday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -174,7 +215,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:57:11 UTC
+ Last Updated on 17/06/2024 00:54:59 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
