@@ -252,7 +252,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course (4 months ago)
 - [momcilovicluka/data-warehouse-steam](https://github.com/momcilovicluka/data-warehouse-steam) - Repozitorijum za projekat iz predmeta Softversko Inženjerstvo za Sisteme Baza Podataka (5 months ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dots, used as main repo for all my Hyprland Install Scripts. (5 months ago)
-- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (5 months ago)
+- [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) - First person survival game made in unity for Seminarski rad C (6 months ago)
 
 ## 🌱 My latest projects
 
