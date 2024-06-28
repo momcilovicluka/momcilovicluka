@@ -318,11 +318,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:58 27 June 2024)
+-   📺 Watched episode 10 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:37 27 June 2024)
+-   📺 Completed [Unnamed Memory](https://anilist.co/anime/158709) (17:20 27 June 2024)
+-   📺 Watched episode 9 - 11 of [Unnamed Memory](https://anilist.co/anime/158709) (16:58 27 June 2024)
 -   📺 Watched episode 8 - 9 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (22:47 26 June 2024)
--   📺 Plans to watch [Unnamed Memory Act.2](https://anilist.co/anime/178550) (23:15 25 June 2024)
--   📺 Completed [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (21:46 16 June 2024)
--   📺 Watched episode 11 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (21:25 16 June 2024)
--   📺 Watched episode 7 - 8 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (14:50 10 June 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
