@@ -318,11 +318,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (00:36 29 June 2024)
 -   📺 Completed [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:58 27 June 2024)
 -   📺 Watched episode 10 of [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:37 27 June 2024)
 -   📺 Completed [Unnamed Memory](https://anilist.co/anime/158709) (17:20 27 June 2024)
 -   📺 Watched episode 9 - 11 of [Unnamed Memory](https://anilist.co/anime/158709) (16:58 27 June 2024)
--   📺 Watched episode 8 - 9 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (22:47 26 June 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
