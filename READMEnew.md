@@ -26,10 +26,10 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3), 4 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3), 5 days ago) - Hyprland dots, used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 1 month ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 4 months ago) - Anime app for android - RMA Faculty project
-- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 6 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
+- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 7 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 7 months ago) - First person survival game made in unity for Seminarski rad C
 - [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 7 months ago) - Puzzle solving game made in android studio using java
 
