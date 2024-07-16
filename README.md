@@ -311,11 +311,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (13:24 15 July 2024)
 -   📺 Watched episode 11 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (11:06 05 July 2024)
 -   📺 Dropped [Studio Apartment, Good Lighting, Angel Included](https://anilist.co/anime/169927) (10:03 05 July 2024)
 -   📺 Dropped [Gods' Games We Play](https://anilist.co/anime/144176) (10:03 05 July 2024)
 -   📺 Watched episode 10 of [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (00:36 29 June 2024)
--   📺 Completed [Wotakoi: Love is Hard for Otaku](https://anilist.co/anime/99578) (21:58 27 June 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
