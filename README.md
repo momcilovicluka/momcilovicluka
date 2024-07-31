@@ -309,11 +309,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 25 of [Death Note](https://anilist.co/anime/1535) (22:34 30 July 2024)
 -   📺 Watched episode 10 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (10:30 18 July 2024)
 -   📺 Watched episode 3 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (10:05 18 July 2024)
 -   📺 Watched episode 9 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (16:04 17 July 2024)
 -   📺 Watched episode 1 - 3 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (15:35 17 July 2024)
--   📺 Watched episode 2 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (14:34 17 July 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
