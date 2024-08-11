@@ -227,7 +227,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/JaKooLit/Hyprland-Dots/issues/131#issuecomment-1881811306) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+1. 💪 Opened PR [#3822](https://github.com/yuliskov/SmartTube/pull/3822) in [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 2. 💪 Opened PR [#132](https://github.com/JaKooLit/Hyprland-Dots/pull/132) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
 3. 💪 Opened PR [#71](https://github.com/JaKooLit/Hyprland-Dots/pull/71) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
 4. ❗ Opened issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
