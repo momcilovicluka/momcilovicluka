@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (4 days ago)
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (5 days ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (1 month ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 months ago)
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (5 months ago)
@@ -26,17 +26,17 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.2), 1 day ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.04](https://github.com/yuliskov/SmartTube/releases/tag/23.04), 2 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.09](https://github.com/yuliskov/SmartTube/releases/tag/23.09), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.2), 2 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 months ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 6 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 8 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 8 months ago) - First person survival game made in unity for Seminarski rad C
-- [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 8 months ago) - Puzzle solving game made in android studio using java
+- [momcilovicluka/android-puzzle](https://github.com/momcilovicluka/android-puzzle) ([v1.1.0](https://github.com/momcilovicluka/android-puzzle/releases/tag/v1.1.0), 9 months ago) - Puzzle solving game made in android studio using java
 
 ## 🔨 My recent Pull Requests
 
-- [tr(sr): fix formatting](https://github.com/yuliskov/SmartTube/pull/3822) on [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) (4 days ago)
+- [tr(sr): fix formatting](https://github.com/yuliskov/SmartTube/pull/3822) on [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) (5 days ago)
 - [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (7 months ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
