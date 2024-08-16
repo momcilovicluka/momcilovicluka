@@ -311,11 +311,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (17:40 15 August 2024)
 -   📺 Completed [Death Note](https://anilist.co/anime/1535) (15:30 31 July 2024)
 -   📺 Watched episode 25 of [Death Note](https://anilist.co/anime/1535) (22:34 30 July 2024)
 -   📺 Watched episode 10 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (10:30 18 July 2024)
 -   📺 Watched episode 3 of [My Deer Friend Nokotan](https://anilist.co/anime/175977) (10:05 18 July 2024)
--   📺 Watched episode 9 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (16:04 17 July 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
