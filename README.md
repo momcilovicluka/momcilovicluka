@@ -312,11 +312,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Evangelion: 2.0 You Can (Not) Advance](https://anilist.co/anime/3784) (19:30 17 August 2024)
--   📺 Completed [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (17:40 15 August 2024)
--   📺 Completed [Death Note](https://anilist.co/anime/1535) (15:30 31 July 2024)
--   📺 Watched episode 25 of [Death Note](https://anilist.co/anime/1535) (22:34 30 July 2024)
--   📺 Watched episode 10 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (10:30 18 July 2024)
+-   📺 Watched episode 4 - 5 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:22 22 August 2024)
+-   📺 Watched episode 4 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:00 22 August 2024)
+-   📺 Completed [Evangelion: 3.0+1.0 Thrice Upon a Time](https://anilist.co/anime/3786) (15:43 22 August 2024)
+-   📺 Completed [Evangelion: 3.0 You Can (Not) Redo](https://anilist.co/anime/3785) (12:07 22 August 2024)
+-   📺 Completed [The Misfit of Demon King Academy II (Cour 2)](https://anilist.co/anime/130590) (10:19 22 August 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
