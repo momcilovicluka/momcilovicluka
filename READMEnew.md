@@ -26,8 +26,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.3-Ubuntu-24.04](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.3-Ubuntu-24.04), 6 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 2 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.3-Ubuntu-24.04](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.3-Ubuntu-24.04), 1 week ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 months ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 6 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
