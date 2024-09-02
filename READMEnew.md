@@ -26,7 +26,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 2 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 3 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.3-Ubuntu-24.04](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.3-Ubuntu-24.04), 1 week ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 months ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 6 months ago) - Anime app for android - RMA Faculty project
