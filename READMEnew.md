@@ -26,8 +26,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.4](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.4), 1 day ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 4 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.4](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.4), 2 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.39](https://github.com/yuliskov/SmartTube/releases/tag/23.39), 5 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 3 months ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 6 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -37,7 +37,7 @@
 ## 🔨 My recent Pull Requests
 
 - [tr(sr): fix formatting](https://github.com/yuliskov/SmartTube/pull/3822) on [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) (3 weeks ago)
-- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (7 months ago)
+- [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (11 months ago)
