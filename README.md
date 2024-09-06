@@ -81,6 +81,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=css&sort=" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
+    <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+    <a href="https://angular.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://github.com/momcilovicluka?tab=repositories&q=&type=&language=php&sort=" target="_blank" rel="noopener noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
