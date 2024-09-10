@@ -236,8 +236,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3822](https://github.com/yuliskov/SmartTube/pull/3822) in [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
-2. 💪 Opened PR [#132](https://github.com/JaKooLit/Hyprland-Dots/pull/132) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+1. 💪 Opened PR [#540](https://github.com/Team-xManager/xManager/pull/540) in [Team-xManager/xManager](https://github.com/Team-xManager/xManager)
+2. 💪 Opened PR [#3822](https://github.com/yuliskov/SmartTube/pull/3822) in [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 3. 💪 Opened PR [#71](https://github.com/JaKooLit/Hyprland-Dots/pull/71) in [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
 4. ❗ Opened issue [#1](https://github.com/momcilovicluka/Hyprland-dots/issues/1) in [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots)
 5. 🚀 Published release [Initial release](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0) in [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime)
