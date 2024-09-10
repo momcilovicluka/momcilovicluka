@@ -154,6 +154,8 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -162,28 +164,67 @@ Here are some ideas to get you started:
 
 > 📦 666.7 kB Used in GitHub's Storage 
  > 
-> 🏆 696 Contributions in the Year 2024
+> 🏆 700 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+🌆 Daytime                401 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+🌃 Evening                624 commits         ███████████░░░░░░░░░░░░░░   42.59 % 
+🌙 Night                  386 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Wednesday                224 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Friday                   272 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Saturday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Sunday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
-Java                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-PLSQL                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Cypher                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+PLSQL                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Cypher                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 09/09/2024 01:01:05 UTC
+ Last Updated on 10/09/2024 00:59:44 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
