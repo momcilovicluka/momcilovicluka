@@ -272,7 +272,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.5-Hyprland-0.43.0](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.5-Hyprland-0.43.0), 2 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.5-Hyprland-0.43.0](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.5-Hyprland-0.43.0), 3 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.10.2](https://github.com/karlstav/cava/releases/tag/0.10.2), 4 months ago) - Cross-platform Audio Visualizer
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -281,7 +281,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [tr(cro &amp; srb): fix incomplete translations](https://github.com/Team-xManager/xManager/pull/540) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (2 days ago)
+- [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2713) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
+- [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2712) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
+- [tr(cro &amp; srb): fix incomplete translations](https://github.com/Team-xManager/xManager/pull/540) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (3 days ago)
 - [tr(sr): fix formatting](https://github.com/yuliskov/SmartTube/pull/3822) on [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) (1 month ago)
 - [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (9 months ago)
