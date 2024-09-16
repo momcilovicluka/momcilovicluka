@@ -331,11 +331,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (20:55 15 September 2024)
 -   📺 Watched episode 8 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:07 13 September 2024)
 -   📺 Watched episode 7 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:27 12 September 2024)
 -   📺 Watched episode 6 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:15 06 September 2024)
 -   📺 Watched episode 4 - 5 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:22 22 August 2024)
--   📺 Watched episode 4 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:00 22 August 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
