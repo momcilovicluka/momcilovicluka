@@ -278,8 +278,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 day ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.65](https://github.com/yuliskov/SmartTube/releases/tag/23.65), 3 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([23.67](https://github.com/yuliskov/SmartTube/releases/tag/23.67), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 2 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 9 months ago) - First person survival game made in unity for Seminarski rad C
@@ -287,8 +287,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [doc(contributing): add link to strings.xml](https://github.com/Team-xManager/xManager/pull/546) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (6 days ago)
-- [refactor splash activity](https://github.com/Team-xManager/xManager/pull/545) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (6 days ago)
+- [doc(contributing): add link to strings.xml](https://github.com/Team-xManager/xManager/pull/546) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
+- [refactor splash activity](https://github.com/Team-xManager/xManager/pull/545) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
 - [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2713) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
 - [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2712) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
 - [tr(cro &amp; srb): fix incomplete translations](https://github.com/Team-xManager/xManager/pull/540) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
