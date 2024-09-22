@@ -246,14 +246,14 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 day ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (2 days ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (6 months ago)
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u (6 months ago)
-- [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (7 months ago)
 - [momcilovicluka/imager](https://github.com/momcilovicluka/imager) - Repozitorij za projekat iz Web Programiranja na PMF-u (7 months ago)
+- [momcilovicluka/sp2-wd-website](https://github.com/momcilovicluka/sp2-wd-website) - Veb sajt rađen u HTML, CSS, JavaScript za prvi zadatak iz predmeta SP2-WD (7 months ago)
 - [momcilovicluka/anirest](https://github.com/momcilovicluka/anirest) - Spring REST api for anime and anime lists. Faculty project for CBD/RZK (7 months ago)
 - [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course (7 months ago)
 
@@ -272,7 +272,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 4 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 5 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.09.12](https://github.com/ChrisTitusTech/winutil/releases/tag/24.09.12), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -281,6 +281,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
+- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
 - [doc(contributing): add link to strings.xml](https://github.com/Team-xManager/xManager/pull/546) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
 - [refactor splash activity](https://github.com/Team-xManager/xManager/pull/545) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
 - [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2713) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
@@ -290,7 +291,6 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [fix(waybar): fix cava creating multiple instances](https://github.com/JaKooLit/Hyprland-Dots/pull/132) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (8 months ago)
 - [fix(RofiBeats): Remove notification when canceled](https://github.com/JaKooLit/Hyprland-Dots/pull/71) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (9 months ago)
 - [feat(waybar): Add mpris player and status icons](https://github.com/JaKooLit/Hyprland-Dots/pull/65) on [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) (9 months ago)
-- [Fix spelling in windows README.md](https://github.com/karlstav/cava/pull/526) on [karlstav/cava](https://github.com/karlstav/cava) (1 year ago)
 
 ## 📓 Gists I wrote
 
