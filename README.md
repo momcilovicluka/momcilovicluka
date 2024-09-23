@@ -236,11 +236,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2792](https://github.com/ChrisTitusTech/winutil/pull/2792) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-2. 💪 Opened PR [#546](https://github.com/Team-xManager/xManager/pull/546) in [Team-xManager/xManager](https://github.com/Team-xManager/xManager)
-3. 💪 Opened PR [#545](https://github.com/Team-xManager/xManager/pull/545) in [Team-xManager/xManager](https://github.com/Team-xManager/xManager)
-4. 💪 Opened PR [#2713](https://github.com/ChrisTitusTech/winutil/pull/2713) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-5. ❌ Closed PR [#2712](https://github.com/ChrisTitusTech/winutil/pull/2712) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+1. 💪 Opened PR [#2799](https://github.com/ChrisTitusTech/winutil/pull/2799) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+2. 💪 Opened PR [#2798](https://github.com/ChrisTitusTech/winutil/pull/2798) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+3. 💪 Opened PR [#2797](https://github.com/ChrisTitusTech/winutil/pull/2797) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+4. 💪 Opened PR [#2794](https://github.com/ChrisTitusTech/winutil/pull/2794) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+5. 💪 Opened PR [#2792](https://github.com/ChrisTitusTech/winutil/pull/2792) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
