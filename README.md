@@ -251,7 +251,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (3 days ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 day ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 6 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 week ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.09.12](https://github.com/ChrisTitusTech/winutil/releases/tag/24.09.12), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -286,11 +286,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [refac(invoke-wpffeatureuninstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2799) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
-- [refac(invoke-wpfinstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
-- [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
-- [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 day ago)
-- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 days ago)
+- [refac(invoke-wpffeatureinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2799) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 days ago)
+- [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 days ago)
+- [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 days ago)
+- [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 days ago)
+- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (3 days ago)
 - [doc(contributing): add link to strings.xml](https://github.com/Team-xManager/xManager/pull/546) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
 - [refactor splash activity](https://github.com/Team-xManager/xManager/pull/545) on [Team-xManager/xManager](https://github.com/Team-xManager/xManager) (1 week ago)
 - [refac(toggle status): simplify return statements](https://github.com/ChrisTitusTech/winutil/pull/2713) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
