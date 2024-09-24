@@ -77,6 +77,9 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198195429247"
+          plugin_steam_games_limit: 5
+          plugin_steam_recent_games_limit: 5
+          plugin_steam_achievements_limit: 5
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
