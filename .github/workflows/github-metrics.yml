@@ -1,4 +1,4 @@
-name: Update Metrics
+name: Update Github Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -25,7 +25,7 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           use_prebuilt_image: yes
           config_timezone: Europe/Belgrade
           optimize: css, xml, svg
