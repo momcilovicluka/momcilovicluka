@@ -1,4 +1,4 @@
-name: Metrics
+name: Update Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -23,34 +23,56 @@ jobs:
           config_output: svg
           experimental_features: --optimize-svg
           filename: assets/github-metrics.*
-          base: header
-          base_indepth: yes
+          base: header, activity, community, repositories, metadata
+          #base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
+          #plugin_languages_indepth: yes
           plugin_languages_limit: 5
+
+          plugin_lines: yes
           
           plugin_topics: yes
           plugin_topics_limit: 5
           plugin_topics_mode: icons
           
           plugin_notable: yes
+
+          plugin_followup: yes
+
+          plugin_habits: yes
           
           plugin_discussions: yes
 
           plugin_achievements: yes
           plugin_achievements_display: compact
 
+          plugin_activity: yes
+
+          plugin_projects: yes
+
+          plugin_reactions: yes
+
+          plugin_skyline: yes
+
+          plugin_traffic: yes
+
+          plugin_steam: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+          plugin_music: yes
+          plugin_music_limit: 9
+
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 22
-          
-          plugin_music: yes
-          plugin_music_limit: 9
