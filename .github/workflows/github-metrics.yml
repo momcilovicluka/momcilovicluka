@@ -34,7 +34,7 @@ jobs:
           filename: assets/github-metrics.*
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_order: base, isocalendar, languages, lines, notable, discussions, topics, habits, achievements, followup, skyline, reactions, activity, projects, traffic, wakatime, anilist, music, steam
+          config_order: base, isocalendar, languages, lines, followup, reactions, habits, notable, discussions, topics, achievements, skyline, wakatime, activity, projects, traffic, steam, anilist, music
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
