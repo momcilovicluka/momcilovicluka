@@ -325,11 +325,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season](https://anilist.co/anime/181951) (22:39 23 September 2024)
+-   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (06:35 23 September 2024)
 -   📺 Watched episode 10 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:10 20 September 2024)
 -   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2](https://anilist.co/anime/181641) (20:17 18 September 2024)
 -   📺 Watched episode 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (20:55 15 September 2024)
--   📺 Watched episode 8 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:07 13 September 2024)
--   📺 Watched episode 7 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (21:27 12 September 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
