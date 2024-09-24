@@ -19,6 +19,7 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           use_prebuilt_image: yes
           config_timezone: Europe/Belgrade
-          config_output: png
           optimize: css, xml, svg
+          config_output: svg
           experimental_features: --optimize-svg
+          filename: /assets/github-metrics.*
