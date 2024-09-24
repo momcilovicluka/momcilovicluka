@@ -45,7 +45,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_skyline: yes
+          plugin_skyline: no
           plugin_skyline_year: 2024
           
           plugin_languages: yes
