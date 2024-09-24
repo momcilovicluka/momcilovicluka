@@ -151,7 +151,10 @@ Here are some ideas to get you started:
 <details closed>
   <summary>📊 GitHub Metrics</summary>
   <hr>
-    <p align="center"><img src="/assets/github-metrics.svg" alt="Metrics" width="50%"></p>
+    <p align="center">
+        <img src="/assets/github-metrics.svg" alt="Metrics" width="50%">
+        <img src="/assets/github-metrics.svg" alt="Metrics" width="50%">
+    </p>
 </details>
 <hr>
 <details>
