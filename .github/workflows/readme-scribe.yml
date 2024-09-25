@@ -6,20 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  markscribe:
+  update-readme-markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout
+        uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
+      - name: Run readme-scribe
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "README.md.tpl"
           writeTo: "READMEnew.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Auto commit
+        uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -29,6 +32,7 @@ jobs:
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
+      - name: Copy-Paste action
       - uses: ShreyamMaity/Copy-Paste-Action@V2.0
         with:
           TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
