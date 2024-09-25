@@ -5,11 +5,12 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
+  update-readme-wakatime:
     name: Update Readme with WakaTime Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: WakaTime Action
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
