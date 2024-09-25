@@ -9,8 +9,11 @@ jobs:
     name: Update Readme with Anilist
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: pxseu/anilist-readme@v1.4.2
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Anilist action
+        uses: pxseu/anilist-readme@v1.4.2
         with:
           # Your anilist user id
           user_id: 5492163
