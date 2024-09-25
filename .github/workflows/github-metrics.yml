@@ -7,15 +7,16 @@ on:
   # (optional) Run workflow when pushing on master/main
   # push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  github-metrics-left:
     runs-on: ubuntu-latest
     environment: 
       name: production
     permissions:
       contents: write
     concurrency:
-      group: metrics-update
+      group: metrics-update-left
       cancel-in-progress: true
+      
     steps:
       - name: Cache dependencies
         uses: actions/cache@v2
@@ -73,6 +74,24 @@ jobs:
           plugin_topics_limit: 5
           plugin_topics_mode: icons
 
+          
+  github-metrics-right:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    concurrency:
+      group: metrics-update-right
+      cancel-in-progress: true
+      
+    steps:
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+          
       - name: ▶Right side
         if: ${{ always() }}
         uses: lowlighter/metrics@latest
