@@ -11,9 +11,9 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
 
-      - name: Run readme-scribe
+      - name: Readme-scribe Action
         uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
@@ -32,7 +32,7 @@ jobs:
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
-      - name: Copy-Paste action
+      - name: Copy-Paste Action
       - uses: ShreyamMaity/Copy-Paste-Action@V2.0
         with:
           TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
