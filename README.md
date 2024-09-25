@@ -1,26 +1,6 @@
-<!--
-**momcilovicluka/momcilovicluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Spotify](https://spotify-readme-luka.vercel.app/api/spotify?background_color=000030&border_color=0000ff)](https://open.spotify.com/user/eqg7uuxs605y69j9l8nepmjv3)
--->
 
-<!--
-<a href="https://www.linkedin.com/in/lukamomcilovic" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> 
-</a> <a href="mailto:l.momcilovic61@gmail.com">![l.momcilovic61@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukasmomcilovic@gmail.com">![lukasmomcilovic@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="mailto:lukamomcilovicit@gmail.com">![lukamomcilovicit@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> yes, i have 3 emails
-
-[![Gmail Badge](https://img.shields.io/badge/-lukasmomcilovic-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:lukasmomcilovic@gmail.com)](mailto:lukasmomcilovic@gmail.com)
--->
 
 <img alt="Hello there" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="163"/><img src="https://spotify-readme-luka.vercel.app/api/spotify?background_color=000020&border_color=0000ff"/>
 <h1>
@@ -161,7 +141,7 @@ Here are some ideas to get you started:
   <summary>✒WakaTime Stats</summary>
   <hr>
   
-  <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
@@ -238,7 +218,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 25/09/2024 01:03:20 UTC
-<!--END_SECTION:waka-->
+
 </details>
 <hr>
 <details>
@@ -248,22 +228,21 @@ Cypher                   1 repo              █░░░░░░░░░░�
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2NNFN1)
 
   ## 📃 Summary
-<!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#2800](https://github.com/ChrisTitusTech/winutil/pull/2800#issuecomment-2372372028) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 2. 🗣 Commented on [#2794](https://github.com/ChrisTitusTech/winutil/pull/2794#issuecomment-2372246921) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 3. ❌ Closed PR [#2794](https://github.com/ChrisTitusTech/winutil/pull/2794) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 4. 🗣 Commented on [#2799](https://github.com/ChrisTitusTech/winutil/pull/2799#issuecomment-2372230878) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 5. 🗣 Commented on [#2798](https://github.com/ChrisTitusTech/winutil/pull/2798#issuecomment-2369095751) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-<!--END_SECTION:activity-->
 
-<!--START_SECTION:cp-->
+
 ## 👷 Check out what I'm currently working on
 
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (today)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (2 days ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
-- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project (6 months ago)
 
 ## 🌱 My latest projects
 
@@ -311,14 +290,12 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [Critlist](https://github.com/Critlist)
 - [gabriccv](https://github.com/gabriccv)
 
-<!--END_SECTION:cp-->
-
 </details>
 <hr>
 <details open>
   <summary>📺 Anilist activity</summary>
   <hr>
-    <!-- ANILIST_ACTIVITY:start -->
+    
 
 -   📺 Plans to watch [Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season](https://anilist.co/anime/181951) (22:39 23 September 2024)
 -   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (06:35 23 September 2024)
@@ -326,6 +303,6 @@ Cypher                   1 repo              █░░░░░░░░░░�
 -   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2](https://anilist.co/anime/181641) (20:17 18 September 2024)
 -   📺 Watched episode 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (20:55 15 September 2024)
 
-    <!-- ANILIST_ACTIVITY:end -->
+    
 </details>
 <hr>
