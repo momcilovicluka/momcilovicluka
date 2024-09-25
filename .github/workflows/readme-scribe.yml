@@ -33,7 +33,7 @@ jobs:
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
       - name: Copy-Paste Action
-      - uses: ShreyamMaity/Copy-Paste-Action@V2.0
+        uses: ShreyamMaity/Copy-Paste-Action@V2.0
         with:
           TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           REPOSITORY : 'momcilovicluka'
