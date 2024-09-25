@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Anilist action
-        uses: pxseu/anilist-readme@v1.4.2
+        uses: pxseu/anilist-readme@senpai
         with:
           # Your anilist user id
           user_id: 5492163
