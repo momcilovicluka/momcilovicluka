@@ -25,7 +25,7 @@ jobs:
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
           
       - name: ◀Left side metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           use_prebuilt_image: yes
@@ -94,7 +94,7 @@ jobs:
           
       - name: ▶Right side metrics
         if: ${{ always() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           use_prebuilt_image: yes
