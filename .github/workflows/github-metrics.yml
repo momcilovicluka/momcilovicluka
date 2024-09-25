@@ -19,7 +19,7 @@ jobs:
       
     steps:
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@latest
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
@@ -87,7 +87,7 @@ jobs:
       
     steps:
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@latest
         with:
           path: ~/.cache
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
