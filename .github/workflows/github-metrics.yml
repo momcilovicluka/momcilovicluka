@@ -101,7 +101,7 @@ jobs:
           plugin_music_user: lukamomcilovic
           plugin_music_played_at: yes
           plugin_music_time_range: short
-          plugin_music_mode: recent
+          plugin_music_mode: top
 
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
