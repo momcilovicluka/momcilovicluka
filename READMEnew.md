@@ -1,7 +1,7 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (today)
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (2 days ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 day ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (3 days ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
@@ -17,25 +17,25 @@
 ## 🔭 Latest releases I've contributed to
 
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 week ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.09.12](https://github.com/ChrisTitusTech/winutil/releases/tag/24.09.12), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.09.12](https://github.com/ChrisTitusTech/winutil/releases/tag/24.09.12), 2 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 9 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 - [momcilovicluka/anirvive](https://github.com/momcilovicluka/anirvive) ([v1.0.0](https://github.com/momcilovicluka/anirvive/releases/tag/v1.0.0), 9 months ago) - First person survival game made in unity for Seminarski rad C
 
 ## 🔨 My recent Pull Requests
 
-- [refac(invoke-wpffeatureinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2799) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (3 days ago)
-- [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (3 days ago)
-- [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (3 days ago)
-- [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (3 days ago)
-- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (4 days ago)
+- [refac(invoke-wpffeatureinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2799) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (4 days ago)
+- [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (4 days ago)
+- [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (4 days ago)
+- [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (4 days ago)
+- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (5 days ago)
 
 ## 📓 Gists I wrote
 
 
 ## ⭐ Recent Stars
 
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (1 day ago)
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (2 days ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (5 months ago)
 - [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (10 months ago)
 - [ohyicong/decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) -  (1 year ago)
