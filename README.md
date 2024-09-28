@@ -323,11 +323,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (22:00 27 September 2024)
+-   📺 Watched episode 2 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (21:35 27 September 2024)
+-   📺 Watched episode 1 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (07:06 27 September 2024)
 -   📖 Read chapter 50 of [The Kingdoms of Ruin](https://anilist.co/manga/112203) (21:07 26 September 2024)
 -   📺 Plans to watch [Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season](https://anilist.co/anime/181951) (22:39 23 September 2024)
--   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (06:35 23 September 2024)
--   📺 Watched episode 10 - 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (16:10 20 September 2024)
--   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2](https://anilist.co/anime/181641) (20:17 18 September 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
