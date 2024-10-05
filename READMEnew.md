@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.10.01](https://github.com/ChrisTitusTech/winutil/releases/tag/24.10.01), 3 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.10.01](https://github.com/ChrisTitusTech/winutil/releases/tag/24.10.01), 4 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 2 weeks ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 7 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 10 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -28,7 +28,7 @@
 - [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
 - [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
 - [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
-- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 week ago)
+- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
