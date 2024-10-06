@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Sousou no Frieren 2nd Season](https://anilist.co/anime/182255) (20:39 05 October 2024)
 -   📺 Completed [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (22:00 27 September 2024)
 -   📺 Watched episode 2 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (21:35 27 September 2024)
 -   📺 Watched episode 1 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (07:06 27 September 2024)
 -   📖 Read chapter 50 of [The Kingdoms of Ruin](https://anilist.co/manga/112203) (21:07 26 September 2024)
--   📺 Plans to watch [Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season](https://anilist.co/anime/181951) (22:39 23 September 2024)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
