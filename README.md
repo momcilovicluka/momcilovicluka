@@ -270,7 +270,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.21](https://github.com/yuliskov/SmartTube/releases/tag/24.21), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.23](https://github.com/yuliskov/SmartTube/releases/tag/24.23), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.10.07](https://github.com/ChrisTitusTech/winutil/releases/tag/24.10.07), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 month ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 8 months ago) - Anime app for android - RMA Faculty project
@@ -290,7 +290,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 ## ⭐ Recent Stars
 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (1 week ago)
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (2 weeks ago)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (3 weeks ago)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (3 weeks ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (5 months ago)
 - [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (11 months ago)
