@@ -16,8 +16,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.37s](https://github.com/yuliskov/SmartTube/releases/tag/24.37s), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.10.24](https://github.com/ChrisTitusTech/winutil/releases/tag/24.10.24), 2 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.38](https://github.com/yuliskov/SmartTube/releases/tag/24.38), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.10.24](https://github.com/ChrisTitusTech/winutil/releases/tag/24.10.24), 3 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 month ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 8 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 10 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
@@ -35,11 +35,11 @@
 
 ## ⭐ Recent Stars
 
-- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (2 weeks ago)
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (4 weeks ago)
+- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (3 weeks ago)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 month ago)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (1 month ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (6 months ago)
-- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (11 months ago)
+- [PranamBhat/MyGoogleInterview-Experience](https://github.com/PranamBhat/MyGoogleInterview-Experience) - My Google Interview Experience (1 year ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
