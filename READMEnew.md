@@ -1,7 +1,7 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 days ago)
-- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (6 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 days ago)
+- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (1 week ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (1 week ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 month ago)
@@ -16,8 +16,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.69](https://github.com/yuliskov/SmartTube/releases/tag/24.69), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.11](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.11), 2 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.70](https://github.com/yuliskov/SmartTube/releases/tag/24.70), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.11](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.11), 3 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 1 month ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 9 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 11 months ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
