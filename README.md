@@ -266,9 +266,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (1 day ago)
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 days ago)
-- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (5 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 day ago)
+- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (2 days ago)
+- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (6 days ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (2 weeks ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
 
@@ -282,7 +282,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.71s](https://github.com/yuliskov/SmartTube/releases/tag/24.71s), 5 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.71s](https://github.com/yuliskov/SmartTube/releases/tag/24.71s), 6 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.11](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.11), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 2 months ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 9 months ago) - Anime app for android - RMA Faculty project
@@ -294,7 +294,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 month ago)
 - [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 month ago)
 - [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 month ago)
-- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (1 month ago)
+- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
 
 ## 📓 Gists I wrote
 
