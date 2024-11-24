@@ -1,22 +1,22 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 days ago)
-- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (5 days ago)
+- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (1 day ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (5 days ago)
+- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (6 days ago)
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (1 week ago)
-- [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (2 weeks ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
+- [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (3 weeks ago)
 
 ## 🌱 My latest projects
 
+- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) - 
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard:
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) - Anime app for android - RMA Faculty project
-- [momcilovicluka/neo4j-anime](https://github.com/momcilovicluka/neo4j-anime) - Repo for Neo4j project about anime for NoSQL databases course
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.76](https://github.com/yuliskov/SmartTube/releases/tag/24.76), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.78](https://github.com/yuliskov/SmartTube/releases/tag/24.78), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.11](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.11), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.6-2](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.6-2), 2 months ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 9 months ago) - Anime app for android - RMA Faculty project
@@ -24,11 +24,11 @@
 
 ## 🔨 My recent Pull Requests
 
-- [refac(invoke-wpffeatureinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2799) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
-- [refac(invoke-wpfinstall.ps1): simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2798) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
-- [refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation](https://github.com/ChrisTitusTech/winutil/pull/2797) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
-- [refac(invoke-preprocessing.ps1): make code shorter and cleaner](https://github.com/ChrisTitusTech/winutil/pull/2794) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
-- [refac(winget.ps1)](https://github.com/ChrisTitusTech/winutil/pull/2792) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) (2 months ago)
+- [Add tests](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/9) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 days ago)
+- [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 days ago)
+- [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 days ago)
+- [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 days ago)
+- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (5 days ago)
 
 ## 📓 Gists I wrote
 
