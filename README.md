@@ -266,7 +266,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (6 days ago)
+- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (1 week ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (1 week ago)
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (2 weeks ago)
@@ -282,9 +282,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.89s](https://github.com/yuliskov/SmartTube/releases/tag/24.89s), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 4 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.25](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.25), 4 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.89s](https://github.com/yuliskov/SmartTube/releases/tag/24.89s), 2 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 5 days ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.25](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.25), 5 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 9 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 year ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
@@ -312,11 +312,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
-- [eust-w](https://github.com/eust-w)
 - [kaiooo2](https://github.com/kaiooo2)
 - [Rudy5ar](https://github.com/Rudy5ar)
 - [Critlist](https://github.com/Critlist)
 - [gabriccv](https://github.com/gabriccv)
+- [mihna123](https://github.com/mihna123)
 
 <!--END_SECTION:cp-->
 
