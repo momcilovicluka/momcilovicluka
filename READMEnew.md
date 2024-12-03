@@ -1,10 +1,10 @@
 ## 👷 Check out what I'm currently working on
 
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (1 week ago)
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 weeks ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (2 weeks ago)
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (2 weeks ago)
-- [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (4 weeks ago)
+- [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (1 month ago)
 
 ## 🌱 My latest projects
 
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.92](https://github.com/yuliskov/SmartTube/releases/tag/24.92), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([24.94](https://github.com/yuliskov/SmartTube/releases/tag/24.94), 1 day ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 1 week ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.11.25](https://github.com/ChrisTitusTech/winutil/releases/tag/24.11.25), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 9 months ago) - Anime app for android - RMA Faculty project
@@ -28,7 +28,7 @@
 - [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 week ago)
 - [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 week ago)
 - [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 week ago)
-- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 week ago)
+- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
