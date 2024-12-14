@@ -1,9 +1,9 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (2 weeks ago)
+- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (3 weeks ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 weeks ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (3 weeks ago)
-- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (4 weeks ago)
+- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (1 month ago)
 
 ## 🌱 My latest projects
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.09](https://github.com/yuliskov/SmartTube/releases/tag/25.09), 2 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.09](https://github.com/yuliskov/SmartTube/releases/tag/25.09), 3 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.12.06](https://github.com/ChrisTitusTech/winutil/releases/tag/24.12.06), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 2 weeks ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 10 months ago) - Anime app for android - RMA Faculty project
