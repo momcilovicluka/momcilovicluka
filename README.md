@@ -263,7 +263,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (3 weeks ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 weeks ago)
-- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (4 weeks ago)
+- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (1 month ago)
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (1 month ago)
 - [momcilovicluka/blongular](https://github.com/momcilovicluka/blongular) - Angular app for blogs plus some extra stuff for NWP project. Dashboard: (1 month ago)
 
@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.09](https://github.com/yuliskov/SmartTube/releases/tag/25.09), 6 days ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.09](https://github.com/yuliskov/SmartTube/releases/tag/25.09), 1 week ago) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.12.06](https://github.com/ChrisTitusTech/winutil/releases/tag/24.12.06), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 3 weeks ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 10 months ago) - Anime app for android - RMA Faculty project
@@ -285,10 +285,10 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔨 My recent Pull Requests
 
-- [Add tests](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/9) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (3 weeks ago)
-- [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (3 weeks ago)
-- [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (3 weeks ago)
-- [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (3 weeks ago)
+- [Add tests](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/9) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 weeks ago)
+- [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 weeks ago)
+- [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 weeks ago)
+- [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 weeks ago)
 - [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (4 weeks ago)
 
 ## 📓 Gists I wrote
