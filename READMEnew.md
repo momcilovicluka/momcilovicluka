@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 days ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (1 month ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (1 month ago)
 - [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react (1 month ago)
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.27](https://github.com/yuliskov/SmartTube/releases/tag/25.27), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.29](https://github.com/yuliskov/SmartTube/releases/tag/25.29), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.12.06](https://github.com/ChrisTitusTech/winutil/releases/tag/24.12.06), 4 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 1 month ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 10 months ago) - Anime app for android - RMA Faculty project
@@ -35,7 +35,7 @@
 
 ## ⭐ Recent Stars
 
-- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (2 months ago)
+- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (3 months ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (3 months ago)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (3 months ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (8 months ago)
