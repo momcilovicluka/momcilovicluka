@@ -16,8 +16,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 1 day ago) - Ad-Free, New Features &amp; Freedom
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.12.06](https://github.com/ChrisTitusTech/winutil/releases/tag/24.12.06), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) ([v2.3.7](https://github.com/JaKooLit/Hyprland-Dots/releases/tag/v2.3.7), 1 month ago) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 11 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 year ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
