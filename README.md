@@ -278,8 +278,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 3 days ago) - Ad-Free, New Features &amp; Freedom
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([24.12.06](https://github.com/ChrisTitusTech/winutil/releases/tag/24.12.06), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.01.11](https://github.com/ChrisTitusTech/winutil/releases/tag/25.01.11), 1 day ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 4 days ago) - Ad-Free, New Features &amp; Freedom
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 11 months ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 year ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
