@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (5 days ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (6 days ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 weeks ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (2 months ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (2 months ago)
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.64s](https://github.com/yuliskov/SmartTube/releases/tag/25.64s), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.66](https://github.com/yuliskov/SmartTube/releases/tag/25.66), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.01.11](https://github.com/ChrisTitusTech/winutil/releases/tag/25.01.11), 2 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 2 weeks ago) - Ad-Free, New Features &amp; Freedom
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 11 months ago) - Anime app for android - RMA Faculty project
