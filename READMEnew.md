@@ -16,9 +16,9 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.88](https://github.com/yuliskov/SmartTube/releases/tag/25.88), 2 days ago) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([25.90](https://github.com/yuliskov/SmartTube/releases/tag/25.90), today) - Advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.01.11](https://github.com/ChrisTitusTech/winutil/releases/tag/25.01.11), 3 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 4 weeks ago) - Ad-Free, New Features &amp; Freedom
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 1 month ago) - Ad-Free, New Features &amp; Freedom
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 1 year ago) - Anime app for android - RMA Faculty project
 - [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 year ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
@@ -35,8 +35,8 @@
 
 ## ⭐ Recent Stars
 
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (2 days ago)
-- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (2 days ago)
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (3 days ago)
+- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (3 days ago)
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (4 months ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (4 months ago)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (4 months ago)
