@@ -3,7 +3,7 @@
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 week ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
-- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (2 months ago)
+- [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (3 months ago)
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (3 months ago)
 
 ## 🌱 My latest projects
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([26.31](https://github.com/yuliskov/SmartTube/releases/tag/26.31), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([26.34](https://github.com/yuliskov/SmartTube/releases/tag/26.34), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.01.11](https://github.com/ChrisTitusTech/winutil/releases/tag/25.01.11), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 1 month ago) - Ad-Free, New Features &amp; Freedom
 - [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 1 year ago) - Anime app for android - RMA Faculty project
@@ -39,7 +39,7 @@
 - [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (2 weeks ago)
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (4 months ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (4 months ago)
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (4 months ago)
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  (5 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
