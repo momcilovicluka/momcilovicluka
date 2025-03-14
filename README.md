@@ -169,15 +169,15 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 713.5 kB Used in GitHub's Storage 
+> 📦 714.8 kB Used in GitHub's Storage 
  > 
 > 🏆 78 Contributions in the Year 2025
  > 
@@ -214,20 +214,19 @@ Sunday                   632 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ███████████████░░░░░░░░░░   61.88 % 
-HTML                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.96 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               42 mins             ████████████████░░░░░░░░░   64.24 % 
+HTML                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-focus-internal-portal    3 hrs 39 mins       █████████████████████████   100.00 % 
+focus-internal-portal    1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -243,7 +242,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2025 01:06:58 UTC
+ Last Updated on 14/03/2025 01:05:46 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
