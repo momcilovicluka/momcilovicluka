@@ -19,8 +19,6 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.03.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.03.05), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([26.75s](https://github.com/yuliskov/SmartTube/releases/tag/26.75s), 1 week ago) - Advanced player for set-top boxes and tvs running Android OS
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 2 months ago) - Ad-Free, New Features &amp; Freedom
-- [momcilovicluka/anidroid](https://github.com/momcilovicluka/anidroid) ([v0.1.4](https://github.com/momcilovicluka/anidroid/releases/tag/v0.1.4), 1 year ago) - Anime app for android - RMA Faculty project
-- [momcilovicluka/mongodb-anime](https://github.com/momcilovicluka/mongodb-anime) ([v1.0.0](https://github.com/momcilovicluka/mongodb-anime/releases/tag/v1.0.0), 1 year ago) - Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
 ## 🔨 My recent Pull Requests
 
