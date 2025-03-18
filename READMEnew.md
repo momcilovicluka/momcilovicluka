@@ -4,7 +4,7 @@
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 month ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (1 month ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (3 months ago)
-- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (3 months ago)
+- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees (4 months ago)
 
 ## 🌱 My latest projects
 
@@ -17,7 +17,7 @@
 ## 🔭 Latest releases I've contributed to
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.03.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.03.05), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([26.75s](https://github.com/yuliskov/SmartTube/releases/tag/26.75s), 1 week ago) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([26.75s](https://github.com/yuliskov/SmartTube/releases/tag/26.75s), 2 weeks ago) - Advanced player for set-top boxes and tvs running Android OS
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 2 months ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
