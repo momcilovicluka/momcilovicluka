@@ -304,11 +304,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [filedonkey](https://github.com/filedonkey)
 - [PaliwalTarun](https://github.com/PaliwalTarun)
 - [kaiooo2](https://github.com/kaiooo2)
 - [Rudy5ar](https://github.com/Rudy5ar)
 - [Critlist](https://github.com/Critlist)
-- [gabriccv](https://github.com/gabriccv)
 
 <!--END_SECTION:cp-->
 
