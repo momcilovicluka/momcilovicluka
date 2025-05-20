@@ -3,7 +3,7 @@
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (1 week ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 week ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (3 months ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (3 months ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (4 months ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (5 months ago)
 
 ## 🌱 My latest projects
@@ -16,7 +16,6 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([27.66](https://github.com/yuliskov/SmartTube/releases/tag/27.66), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.05.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.05.05), 2 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 4 months ago) - Ad-Free, New Features &amp; Freedom
 
