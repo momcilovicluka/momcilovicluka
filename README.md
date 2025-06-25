@@ -302,11 +302,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [nemanjagit](https://github.com/nemanjagit)
 - [ansalens](https://github.com/ansalens)
 - [PaliwalTarun](https://github.com/PaliwalTarun)
 - [kaiooo2](https://github.com/kaiooo2)
 - [Rudy5ar](https://github.com/Rudy5ar)
-- [Critlist](https://github.com/Critlist)
 
 <!--END_SECTION:cp-->
 
