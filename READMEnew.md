@@ -16,8 +16,8 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.48](https://github.com/yuliskov/SmartTube/releases/tag/28.48), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 4 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.49](https://github.com/yuliskov/SmartTube/releases/tag/28.49), 1 day ago) - Advanced player for set-top boxes and tvs running Android OS
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 5 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 5 months ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
