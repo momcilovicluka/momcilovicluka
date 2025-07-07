@@ -320,7 +320,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Sousou no Frieren 2nd Season](https://anilist.co/anime/182255) (20:39 05 October 2024)
+-   📺 Plans to watch [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (20:39 05 October 2024)
 -   📺 Completed [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (22:00 27 September 2024)
 -   📺 Watched episode 2 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (21:35 27 September 2024)
 -   📺 Watched episode 1 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (07:06 27 September 2024)
