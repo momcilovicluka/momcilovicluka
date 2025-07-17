@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.66s](https://github.com/yuliskov/SmartTube/releases/tag/28.66s), 1 day ago) - Browse media content with your own rules on Android TV
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.73](https://github.com/yuliskov/SmartTube/releases/tag/28.73), 1 day ago) - Browse media content with your own rules on Android TV
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 2 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 6 months ago) - Ad-Free, New Features &amp; Freedom
 
@@ -287,7 +287,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
 - [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
 - [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
-- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
+- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
 
 ## 📓 Gists I wrote
 
