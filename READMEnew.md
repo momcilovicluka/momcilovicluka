@@ -16,16 +16,16 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.73](https://github.com/yuliskov/SmartTube/releases/tag/28.73), 1 day ago) - Browse media content with your own rules on Android TV
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 2 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.76](https://github.com/yuliskov/SmartTube/releases/tag/28.76), 1 day ago) - Browse media content with your own rules on Android TV
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 3 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 6 months ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
 
-- [Add tests](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/9) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
-- [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
-- [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
-- [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (7 months ago)
+- [Add tests](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/9) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
+- [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
+- [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
+- [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
 - [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (8 months ago)
 
 ## 📓 Gists I wrote
