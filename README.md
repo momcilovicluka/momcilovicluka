@@ -264,7 +264,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (2 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 months ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (5 months ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (5 months ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (6 months ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (7 months ago)
 
 ## 🌱 My latest projects
@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.76](https://github.com/yuliskov/SmartTube/releases/tag/28.76), 1 day ago) - Browse media content with your own rules on Android TV
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.77](https://github.com/yuliskov/SmartTube/releases/tag/28.77), 1 day ago) - Browse media content with your own rules on Android TV
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 3 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 6 months ago) - Ad-Free, New Features &amp; Freedom
 
