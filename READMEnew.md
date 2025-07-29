@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.86](https://github.com/yuliskov/SmartTube/releases/tag/28.86), 2 days ago) - Browse media content with your own rules on Android TV
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([28.89](https://github.com/yuliskov/SmartTube/releases/tag/28.89), today) - Browse media content with your own rules on Android TV
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.06.27](https://github.com/ChrisTitusTech/winutil/releases/tag/25.06.27), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 6 months ago) - Ad-Free, New Features &amp; Freedom
 
