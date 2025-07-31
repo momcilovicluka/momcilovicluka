@@ -169,17 +169,13 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 918.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 919.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -187,45 +183,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-🌆 Daytime                769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                1279 commits        ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌙 Night                  746 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Tuesday                  407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Thursday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Friday                   786 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Saturday                 352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Sunday                   658 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Belgrade
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -239,7 +196,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:21:22 UTC
+ Last Updated on 31/07/2025 01:20:58 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
