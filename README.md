@@ -277,8 +277,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.01](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.01), 4 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 6 months ago) - Ad-Free, New Features &amp; Freedom
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 1 day ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 7 months ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
 
