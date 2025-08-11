@@ -277,8 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ([29.19](https://github.com/yuliskov/SmartTube/releases/tag/29.19), 1 day ago) - Browse media content with your own rules on Android TV
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 5 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 6 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.8](https://github.com/Team-xManager/xManager/releases/tag/5.8), 7 months ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
@@ -294,9 +293,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (2 weeks ago)
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (2 weeks ago)
-- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (2 weeks ago)
+- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (3 weeks ago)
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (3 weeks ago)
+- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (3 weeks ago)
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (6 months ago)
 - [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (6 months ago)
 
