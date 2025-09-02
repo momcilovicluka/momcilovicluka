@@ -17,7 +17,7 @@
 ## 🔭 Latest releases I've contributed to
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.9](https://github.com/Team-xManager/xManager/releases/tag/5.9), 2 weeks ago) - Ad-Free, New Features &amp; Freedom
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 3 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 4 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## 🔨 My recent Pull Requests
 
@@ -35,8 +35,8 @@
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (1 month ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 month ago)
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (1 month ago)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (6 months ago)
-- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (6 months ago)
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (7 months ago)
+- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (7 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
