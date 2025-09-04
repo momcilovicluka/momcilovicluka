@@ -1,7 +1,7 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 months ago)
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 months ago)
+- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (6 months ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (7 months ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (9 months ago)
@@ -17,7 +17,7 @@
 ## 🔭 Latest releases I've contributed to
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.9](https://github.com/Team-xManager/xManager/releases/tag/5.9), 2 weeks ago) - Ad-Free, New Features &amp; Freedom
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 4 weeks ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## 🔨 My recent Pull Requests
 
