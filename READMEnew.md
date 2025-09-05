@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.9](https://github.com/Team-xManager/xManager/releases/tag/5.9), 2 weeks ago) - Ad-Free, New Features &amp; Freedom
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.9](https://github.com/Team-xManager/xManager/releases/tag/5.9), 3 weeks ago) - Ad-Free, New Features &amp; Freedom
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.08.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.08.05), 1 month ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## 🔨 My recent Pull Requests
