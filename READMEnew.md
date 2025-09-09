@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.05), 3 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.05), 4 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) ([5.9](https://github.com/Team-xManager/xManager/releases/tag/5.9), 3 weeks ago) - Ad-Free, New Features &amp; Freedom
 
 ## 🔨 My recent Pull Requests
