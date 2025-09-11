@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.05), 5 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.05), 6 days ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## 🔨 My recent Pull Requests
 
