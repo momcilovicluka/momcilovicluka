@@ -264,7 +264,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (7 months ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (7 months ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (8 months ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (9 months ago)
 
 ## 🌱 My latest projects
@@ -277,7 +277,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.05](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.05), 1 week ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) ([25.09.16](https://github.com/ChrisTitusTech/winutil/releases/tag/25.09.16), 1 day ago) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## 🔨 My recent Pull Requests
 
