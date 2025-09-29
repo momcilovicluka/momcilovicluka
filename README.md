@@ -169,13 +169,15 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2040%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 913.9 kB Used in GitHub's Storage 
+> 📦 914.4 kB Used in GitHub's Storage 
  > 
 > 🏆 306 Contributions in the Year 2025
  > 
@@ -185,6 +187,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+🌆 Daytime                767 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌃 Evening                1276 commits        ██████████░░░░░░░░░░░░░░░   40.92 % 
+🌙 Night                  788 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Tuesday                  415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Wednesday                358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Thursday                 216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Friday                   794 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Saturday                 357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sunday                   663 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+JavaScript               1 min               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Bank                     1 min               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 min               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -198,7 +239,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:14:34 UTC
+ Last Updated on 29/09/2025 01:09:45 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
