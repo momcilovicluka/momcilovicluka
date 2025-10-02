@@ -33,8 +33,8 @@
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (2 months ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (2 months ago)
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (2 months ago)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (7 months ago)
-- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (7 months ago)
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (8 months ago)
+- [DeepakVadgama/java-interview](https://github.com/DeepakVadgama/java-interview) - Study notes for Java developer interview (8 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
