@@ -261,8 +261,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
+- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (5 months ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (5 months ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (7 months ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (8 months ago)
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) -  (10 months ago)
@@ -302,11 +302,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [GeorgeHarbor](https://github.com/GeorgeHarbor)
 - [nemanjagit](https://github.com/nemanjagit)
 - [ansalens](https://github.com/ansalens)
 - [PaliwalTarun](https://github.com/PaliwalTarun)
 - [kaiooo2](https://github.com/kaiooo2)
-- [Rudy5ar](https://github.com/Rudy5ar)
 
 <!--END_SECTION:cp-->
 
