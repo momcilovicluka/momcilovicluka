@@ -169,7 +169,7 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 918.5 kB Used in GitHub's Storage 
+> 📦 912.5 kB Used in GitHub's Storage 
  > 
 > 🏆 312 Contributions in the Year 2025
  > 
@@ -214,16 +214,19 @@ Sunday                   663 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-JavaScript               34 mins             █████████████████████████   100.00 % 
+Python                   48 mins             ████████████████████████░   96.72 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Bank                     34 mins             █████████████████████████   100.00 % 
+Metode Istraživanja      48 mins             ████████████████████████░   96.85 % 
+Bank                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -239,7 +242,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2025 01:06:59 UTC
+ Last Updated on 11/10/2025 01:05:03 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
