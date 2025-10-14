@@ -169,15 +169,15 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 913.0 kB Used in GitHub's Storage 
+> 📦 913.9 kB Used in GitHub's Storage 
  > 
 > 🏆 312 Contributions in the Year 2025
  > 
@@ -214,17 +214,19 @@ Sunday                   663 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Python                   48 mins             █████████████████████████   99.87 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   1 hr 3 mins         ████████████████████░░░░░   81.40 % 
+Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Metode Istraživanja      48 mins             █████████████████████████   100.00 % 
+Metode Istraživanja      48 mins             ████████████████░░░░░░░░░   63.17 % 
+Strukture Podataka i Algo14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Unknown Project          14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -240,7 +242,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2025 01:10:59 UTC
+ Last Updated on 14/10/2025 01:07:49 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
