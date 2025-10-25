@@ -171,13 +171,13 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 917.1 kB Used in GitHub's Storage 
+> 📦 918.3 kB Used in GitHub's Storage 
  > 
 > 🏆 316 Contributions in the Year 2025
  > 
@@ -214,16 +214,16 @@ Sunday                   664 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Python                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Metode Istraživanja      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -239,7 +239,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 01:12:18 UTC
+ Last Updated on 25/10/2025 01:08:07 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
