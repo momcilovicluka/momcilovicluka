@@ -169,17 +169,15 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 919.8 kB Used in GitHub's Storage 
+> 📦 921.7 kB Used in GitHub's Storage 
  > 
-> 🏆 332 Contributions in the Year 2025
+> 🏆 334 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -187,45 +185,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-🌆 Daytime                768 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-🌃 Evening                1278 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
-🌙 Night                  807 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Tuesday                  418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Thursday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Friday                   799 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Saturday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Sunday                   665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Belgrade
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -239,7 +198,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 01:12:47 UTC
+ Last Updated on 16/11/2025 01:17:55 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
