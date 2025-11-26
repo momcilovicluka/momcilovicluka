@@ -263,7 +263,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 weeks ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 weeks ago)
-- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (3 weeks ago)
+- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (4 weeks ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (9 months ago)
 - [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (10 months ago)
 
@@ -302,11 +302,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [KleisonVitt](https://github.com/KleisonVitt)
 - [ognjen004028](https://github.com/ognjen004028)
 - [GeorgeHarbor](https://github.com/GeorgeHarbor)
 - [nemanjagit](https://github.com/nemanjagit)
 - [ansalens](https://github.com/ansalens)
-- [PaliwalTarun](https://github.com/PaliwalTarun)
 
 <!--END_SECTION:cp-->
 
