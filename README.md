@@ -265,7 +265,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (1 month ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (1 month ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (10 months ago)
-- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (10 months ago)
+- [momcilovicluka/powershell](https://github.com/momcilovicluka/powershell) - My powershell configuration and customisation (11 months ago)
 
 ## 🌱 My latest projects
 
@@ -291,7 +291,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (1 day ago)
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (2 days ago)
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (4 months ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (4 months ago)
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (4 months ago)
