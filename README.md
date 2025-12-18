@@ -291,10 +291,10 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (3 days ago)
-- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (4 months ago)
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (4 months ago)
-- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (4 months ago)
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (4 days ago)
+- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (5 months ago)
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (5 months ago)
+- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (5 months ago)
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (10 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
