@@ -317,11 +317,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (20:39 05 October 2024)
--   📺 Completed [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (22:00 27 September 2024)
--   📺 Watched episode 2 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (21:35 27 September 2024)
--   📺 Watched episode 1 of [Wotaku ni Koi wa Muzukashii OVA](https://anilist.co/anime/104217) (07:06 27 September 2024)
--   📖 Read chapter 50 of [The Kingdoms of Ruin](https://anilist.co/manga/112203) (21:07 26 September 2024)
+-   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:54 26 December 2025)
+-   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (17:30 26 December 2025)
+-   📺 Plans to watch [Undead Unluck 2nd Season](https://anilist.co/anime/204604) (17:21 26 December 2025)
+-   📺 Plans to watch [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/170110) (17:14 26 December 2025)
+-   📺 Plans to watch [Undead Unluck: Winter Arc](https://anilist.co/anime/179930) (17:12 26 December 2025)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
