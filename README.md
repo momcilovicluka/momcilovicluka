@@ -295,18 +295,18 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (5 months ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (5 months ago)
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (5 months ago)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (10 months ago)
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (11 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
 
 ## 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
+- [helallao](https://github.com/helallao)
 - [KleisonVitt](https://github.com/KleisonVitt)
 - [ognjen004028](https://github.com/ognjen004028)
 - [GeorgeHarbor](https://github.com/GeorgeHarbor)
-- [nemanjagit](https://github.com/nemanjagit)
-- [ansalens](https://github.com/ansalens)
 
 <!--END_SECTION:cp-->
 
