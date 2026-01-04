@@ -169,17 +169,15 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.57%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 923.6 kB Used in GitHub's Storage 
+> 📦 926.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -187,45 +185,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-🌆 Daytime                769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌃 Evening                1280 commits        ██████████░░░░░░░░░░░░░░░   40.44 % 
-🌙 Night                  827 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Tuesday                  421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Wednesday                372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Friday                   802 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Saturday                 362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Sunday                   670 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Belgrade
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -239,7 +198,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 01:25:46 UTC
+ Last Updated on 04/01/2026 01:26:54 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
