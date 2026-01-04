@@ -317,11 +317,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Call of the Night Season 2](https://anilist.co/anime/175914) (23:23 03 January 2026)
+-   📺 Watched episode 10 - 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:43 03 January 2026)
 -   📺 Watched episode 7 - 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (21:32 02 January 2026)
 -   📺 Plans to watch [Kaguya-sama wa Kokurasetai: Kanketsu-hen](https://anilist.co/anime/205081) (17:34 01 January 2026)
 -   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (22:54 26 December 2025)
--   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (17:30 26 December 2025)
--   📺 Plans to watch [Undead Unluck 2nd Season](https://anilist.co/anime/204604) (17:21 26 December 2025)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
