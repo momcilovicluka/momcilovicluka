@@ -291,7 +291,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (1 week ago)
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (2 weeks ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (2 weeks ago)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (1 month ago)
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (6 months ago)
@@ -304,9 +304,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 - [nemanjagit](https://github.com/nemanjagit)
 - [geeky-lynx](https://github.com/geeky-lynx)
-- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [KleisonVitt](https://github.com/KleisonVitt)
+- [ognjen004028](https://github.com/ognjen004028)
 
 <!--END_SECTION:cp-->
 
