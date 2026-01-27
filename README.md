@@ -263,7 +263,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (2 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 months ago)
-- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (2 months ago)
+- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (3 months ago)
 - [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (11 months ago)
 
 ## 🌱 My latest projects
@@ -290,8 +290,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31&#43; skills, 32 specialized agents, zero learning curve. (4 days ago)
-- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (2 weeks ago)
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31&#43; skills, 32 specialized agents, zero learning curve. (5 days ago)
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (3 weeks ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (3 weeks ago)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (1 month ago)
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (6 months ago)
