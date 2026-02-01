@@ -292,7 +292,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31&#43; skills, 32 specialized agents, zero learning curve. (1 week ago)
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (3 weeks ago)
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (3 weeks ago)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (4 weeks ago)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (1 month ago)
 - [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (6 months ago)
 
