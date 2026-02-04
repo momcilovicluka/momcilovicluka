@@ -264,7 +264,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (3 months ago)
-- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (11 months ago)
+- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 year ago)
 
 ## 🌱 My latest projects
 
