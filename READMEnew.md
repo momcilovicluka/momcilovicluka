@@ -3,7 +3,6 @@
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (3 months ago)
-- [momcilovicluka/spicetify](https://github.com/momcilovicluka/spicetify) - My spicetify config based on Retroblur theme with different colours (1 year ago)
 
 ## 🌱 My latest projects
 
@@ -33,7 +32,7 @@
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (1 month ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (1 month ago)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (2 months ago)
-- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (6 months ago)
+- [CodingWithLewis/TextFocus](https://github.com/CodingWithLewis/TextFocus) - Align large amount of images based on words. Great for the &#34;trending&#34; effect. (7 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
