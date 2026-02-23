@@ -39,8 +39,8 @@
 
 ## 👯 Check out some of my recent followers
 
+- [njegus](https://github.com/njegus)
 - [HunorTotBagi](https://github.com/HunorTotBagi)
 - [nemanjagit](https://github.com/nemanjagit)
 - [geeky-lynx](https://github.com/geeky-lynx)
 - [KleisonVitt](https://github.com/KleisonVitt)
-- [ognjen004028](https://github.com/ognjen004028)
