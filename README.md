@@ -261,8 +261,8 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 months ago)
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 months ago)
+- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (4 months ago)
 
 ## 🌱 My latest projects
