@@ -300,11 +300,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [OliverMuller100](https://github.com/OliverMuller100)
 - [njegus](https://github.com/njegus)
 - [HunorTotBagi](https://github.com/HunorTotBagi)
 - [nemanjagit](https://github.com/nemanjagit)
 - [geeky-lynx](https://github.com/geeky-lynx)
-- [KleisonVitt](https://github.com/KleisonVitt)
 
 <!--END_SECTION:cp-->
 
