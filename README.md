@@ -261,7 +261,7 @@ Cypher                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 days ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (4 months ago)
 
@@ -289,10 +289,10 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting) -  (3 days ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (4 days ago)
+- [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting) -  (4 days ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (5 days ago)
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (1 month ago)
-- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (1 month ago)
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools. (2 months ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (2 months ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
@@ -300,11 +300,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## 👯 Check out some of my recent followers
 
+- [codecrafts1102](https://github.com/codecrafts1102)
 - [OliverMuller100](https://github.com/OliverMuller100)
 - [njegus](https://github.com/njegus)
 - [HunorTotBagi](https://github.com/HunorTotBagi)
 - [nemanjagit](https://github.com/nemanjagit)
-- [geeky-lynx](https://github.com/geeky-lynx)
 
 <!--END_SECTION:cp-->
 
