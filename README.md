@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Chained Soldier Season 2](https://anilist.co/anime/176276) (21:33 07 March 2026)
 -   📺 Watched episode 8 of [Chained Soldier Season 2](https://anilist.co/anime/176276) (22:23 27 February 2026)
 -   📺 Plans to watch [Witch on the Holy Night](https://anilist.co/anime/143103) (12:13 22 February 2026)
 -   📺 Watched episode 7 of [Chained Soldier Season 2](https://anilist.co/anime/176276) (19:54 20 February 2026)
 -   📺 Watched episode 5 - 6 of [Chained Soldier Season 2](https://anilist.co/anime/176276) (19:38 15 February 2026)
--   📺 Watched episode 1 - 3 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (16:32 01 February 2026)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
