@@ -1,7 +1,7 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (3 days ago)
-- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 days ago)
+- [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 days ago)
+- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (5 days ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (5 months ago)
 
 ## 🌱 My latest projects
@@ -28,10 +28,10 @@
 
 ## ⭐ Recent Stars
 
-- [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration) - Configuration for my NixOS setup (5 days ago)
+- [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration) - Configuration for my NixOS setup (6 days ago)
 - [KolbyML/Manatan](https://github.com/KolbyML/Manatan) - Seamless immersion language learning for anime, manga, novels on all platforms (1 week ago)
 - [5c0/metropolis](https://github.com/5c0/metropolis) - A cyberpunk system monitor that transforms kernel metrics into a living terminal skyline. Built with Rust &amp; Ratatui. (1 week ago)
-- [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting) -  (3 weeks ago)
+- [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting) -  (4 weeks ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (4 weeks ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
