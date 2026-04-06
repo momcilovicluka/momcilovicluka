@@ -290,9 +290,9 @@ Cypher                   1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (4 days ago)
+- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (5 days ago)
 - [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration) - Configuration for my NixOS setup (1 week ago)
-- [KolbyML/Manatan](https://github.com/KolbyML/Manatan) - Seamless immersion language learning for anime, manga, novels on all platforms (1 week ago)
+- [KolbyML/Manatan](https://github.com/KolbyML/Manatan) - Seamless immersion language learning for anime, manga, novels on all platforms (2 weeks ago)
 - [5c0/metropolis](https://github.com/5c0/metropolis) - A cyberpunk system monitor that transforms kernel metrics into a living terminal skyline. Built with Rust &amp; Ratatui. (2 weeks ago)
 - [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting) -  (1 month ago)
 
