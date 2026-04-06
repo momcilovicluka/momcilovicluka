@@ -316,11 +316,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Petals of Reincarnation](https://anilist.co/anime/179950) (21:04 05 April 2026)
 -   📺 Completed [Chained Soldier Season 2](https://anilist.co/anime/176276) (19:55 30 March 2026)
 -   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen](https://anilist.co/anime/171952) (04:33 30 March 2026)
 -   📺 Plans to watch [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (04:32 30 March 2026)
 -   📺 Plans to watch [Evangelion (Shinsaku Series)](https://anilist.co/anime/208192) (22:42 28 March 2026)
--   📺 Watched episode 6 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (22:21 28 March 2026)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
