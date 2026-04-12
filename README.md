@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 9 of [Call of the Night Season 2](https://anilist.co/anime/175914) (22:42 11 April 2026)
+-   📺 Watched episode 2 of [Petals of Reincarnation](https://anilist.co/anime/179950) (21:32 11 April 2026)
 -   📺 Watched episode 7 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (19:07 09 April 2026)
 -   📺 Watched episode 1 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (20:19 08 April 2026)
 -   📺 Plans to watch [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (19:44 08 April 2026)
--   📺 Watched episode 7 of [To Be Hero X](https://anilist.co/anime/156092) (19:39 08 April 2026)
--   📺 Plans to watch [To Be Hero X](https://anilist.co/anime/156092) (19:39 08 April 2026)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
