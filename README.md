@@ -315,11 +315,11 @@ Cypher                   1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Petals of Reincarnation](https://anilist.co/anime/179950) (18:36 29 April 2026)
 -   📺 Watched episode 3 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (19:47 27 April 2026)
 -   📺 Watched episode 3 of [Petals of Reincarnation](https://anilist.co/anime/179950) (15:05 19 April 2026)
 -   📺 Plans to watch [Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT](https://anilist.co/anime/210483) (08:17 19 April 2026)
 -   📺 Watched episode 2 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (20:23 17 April 2026)
--   📺 Watched episode 7 - 9 of [Call of the Night Season 2](https://anilist.co/anime/175914) (22:42 11 April 2026)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
