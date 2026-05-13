@@ -282,16 +282,16 @@ Cypher                   1 repo              █░░░░░░░░░░�
 - [Add match creation functionality](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/8) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 year ago)
 - [Reafactor and reorganize project structure](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/7) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 year ago)
 - [Add team create and retrieve functionalities](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/6) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 year ago)
-- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (1 year ago)
+- [Maven build github action](https://github.com/momcilovicluka/5-days-in-cloud-task/pull/5) on [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) (2 years ago)
 
 ## 📓 Gists I wrote
 
 
 ## ⭐ Recent Stars
 
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (2 days ago)
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. (2 days ago)
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (1 week ago)
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (3 days ago)
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. (3 days ago)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (2 weeks ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (2 weeks ago)
 - [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed. (3 weeks ago)
 
