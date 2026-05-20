@@ -28,11 +28,11 @@
 
 ## ⭐ Recent Stars
 
-- [strikoder/OffensiveSecurity](https://github.com/strikoder/OffensiveSecurity) - This repo has a collection of scripts and exploits for OSCP-style labs. It covers enumeration, exploitation, web testing, and reverse shells. (3 days ago)
-- [adeemm/WinAPI-Fun](https://github.com/adeemm/WinAPI-Fun) - A collection of (relatively) harmless prank examples using the Windows API (3 days ago)
+- [strikoder/OffensiveSecurity](https://github.com/strikoder/OffensiveSecurity) - This repo has a collection of scripts and exploits for OSCP-style labs. It covers enumeration, exploitation, web testing, and reverse shells. (4 days ago)
+- [adeemm/WinAPI-Fun](https://github.com/adeemm/WinAPI-Fun) - A collection of (relatively) harmless prank examples using the Windows API (4 days ago)
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (1 week ago)
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. (1 week ago)
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (2 weeks ago)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (3 weeks ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
