@@ -292,11 +292,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [strikoder/OffensiveSecurity](https://github.com/strikoder/OffensiveSecurity) - This repo has a collection of scripts and exploits for OSCP-style labs. It covers enumeration, exploitation, web testing, and reverse shells. (6 days ago)
-- [adeemm/WinAPI-Fun](https://github.com/adeemm/WinAPI-Fun) - A collection of (relatively) harmless prank examples using the Windows API (6 days ago)
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (1 week ago)
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. (1 week ago)
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others. (3 weeks ago)
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 day ago)
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero (1 day ago)
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 day ago)
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C# (1 day ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
