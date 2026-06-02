@@ -1,16 +1,17 @@
 ## 👷 Check out what I'm currently working on
 
+- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (2 weeks ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 months ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (2 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (7 months ago)
 
 ## 🌱 My latest projects
 
+- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) - 
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) - 
 - [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees
-- [momcilovicluka/plog](https://github.com/momcilovicluka/plog) - Blog application built with laravel and react
 
 ## 🔭 Latest releases I've contributed to
 
@@ -28,7 +29,7 @@
 
 ## ⭐ Recent Stars
 
-- [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (5 days ago)
+- [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (6 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 week ago)
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 week ago)
