@@ -290,8 +290,8 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical (5 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical (6 days ago)
 - [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 weeks ago)
