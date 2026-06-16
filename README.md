@@ -261,7 +261,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (4 weeks ago)
+- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (1 month ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 months ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (2 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (7 months ago)
@@ -290,11 +290,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical (6 days ago)
+- [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.liduos.com/ (1 day ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 days ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical (1 week ago)
 - [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 weeks ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
