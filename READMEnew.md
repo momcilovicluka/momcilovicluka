@@ -29,11 +29,11 @@
 
 ## ⭐ Recent Stars
 
-- [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.liduos.com/ (1 day ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 days ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  (1 day ago)
+- [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.liduos.com/ (2 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 days ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical (1 week ago)
-- [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (2 weeks ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
+- [Wandmalfarbe/evangelion-clock-screensaver](https://github.com/Wandmalfarbe/evangelion-clock-screensaver) - A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion. (3 weeks ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
