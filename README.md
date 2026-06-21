@@ -290,11 +290,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (2 days ago)
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (2 days ago)
-- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (2 days ago)
-- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (2 days ago)
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  (4 days ago)
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (3 days ago)
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (3 days ago)
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (3 days ago)
+- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (3 days ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  (5 days ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
