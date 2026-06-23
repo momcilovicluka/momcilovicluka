@@ -29,11 +29,11 @@
 
 ## ⭐ Recent Stars
 
-- [Thijsvanede/DeepLog](https://github.com/Thijsvanede/DeepLog) - PyTorch implementation of Deeplog: Anomaly detection and diagnosis from system logs through deep learning (1 day ago)
-- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (4 days ago)
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (4 days ago)
-- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (4 days ago)
-- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (4 days ago)
+- [Thijsvanede/DeepLog](https://github.com/Thijsvanede/DeepLog) - PyTorch implementation of Deeplog: Anomaly detection and diagnosis from system logs through deep learning (2 days ago)
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (5 days ago)
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (5 days ago)
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (5 days ago)
+- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (5 days ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
