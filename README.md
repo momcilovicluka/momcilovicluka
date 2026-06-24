@@ -263,7 +263,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (1 month ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (2 months ago)
-- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (2 months ago)
+- [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (3 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (7 months ago)
 
 ## 🌱 My latest projects
@@ -290,11 +290,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ## ⭐ Recent Stars
 
-- [Thijsvanede/DeepLog](https://github.com/Thijsvanede/DeepLog) - PyTorch implementation of Deeplog: Anomaly detection and diagnosis from system logs through deep learning (2 days ago)
-- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (5 days ago)
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (5 days ago)
-- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (5 days ago)
-- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (5 days ago)
+- [Thijsvanede/DeepLog](https://github.com/Thijsvanede/DeepLog) - PyTorch implementation of Deeplog: Anomaly detection and diagnosis from system logs through deep learning (3 days ago)
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. (6 days ago)
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (6 days ago)
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. (6 days ago)
+- [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks (6 days ago)
 
 ## ❤️ These awesome people sponsor me (thank you!)
 
