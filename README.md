@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 946.4 kB Used in GitHub's Storage 
+> 📦 946.8 kB Used in GitHub's Storage 
  > 
 > 🏆 203 Contributions in the Year 2026
  > 
@@ -187,45 +187,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-🌆 Daytime                786 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-🌃 Evening                1345 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌙 Night                  974 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Thursday                 250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Friday                   823 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Saturday                 394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Sunday                   692 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Belgrade
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -239,7 +200,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2026 02:29:43 UTC
+ Last Updated on 04/07/2026 02:27:52 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
