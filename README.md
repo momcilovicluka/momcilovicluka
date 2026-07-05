@@ -169,7 +169,7 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -177,9 +177,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 946.8 kB Used in GitHub's Storage 
+> 📦 942.0 kB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2026
+> 🏆 204 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -187,6 +187,50 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+🌆 Daytime                786 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌃 Evening                1345 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌙 Night                  975 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Thursday                 250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Friday                   823 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Saturday                 394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   693 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+Markdown                 19 mins             █████████████████████░░░░   84.80 % 
+Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+BibTeX                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+
+🔥 Editors: 
+Antigravity IDE          21 mins             ████████████████████████░   96.15 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+
+🐱‍💻 Projects: 
+scratch                  11 mins             ████████████░░░░░░░░░░░░░   48.63 % 
+tools                    7 mins              ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+
+💻 Operating System: 
+Windows                  22 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -200,7 +244,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 02:27:52 UTC
+ Last Updated on 05/07/2026 02:37:32 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
