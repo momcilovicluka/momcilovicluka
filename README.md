@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 942.0 kB Used in GitHub's Storage 
+> 📦 942.4 kB Used in GitHub's Storage 
  > 
 > 🏆 204 Contributions in the Year 2026
  > 
@@ -214,21 +214,16 @@ Sunday                   693 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Markdown                 19 mins             █████████████████████░░░░   84.80 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-BibTeX                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+BibTeX                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          21 mins             ████████████████████████░   96.15 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-scratch                  11 mins             ████████████░░░░░░░░░░░░░   48.63 % 
-tools                    7 mins              ████████░░░░░░░░░░░░░░░░░   33.25 % 
-Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Unknown Project          0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -244,7 +239,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 02:37:32 UTC
+ Last Updated on 06/07/2026 02:41:28 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
