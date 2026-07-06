@@ -321,11 +321,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
   <hr>
     <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [MARRIAGETOXIN](https://anilist.co/anime/199547) (18:47 05 July 2026)
+-   📺 Watched episode 12 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (18:25 05 July 2026)
 -   📺 Watched episode 10 - 11 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (14:54 04 July 2026)
 -   📺 Plans to watch [Solo Leveling: Beyond the System](https://anilist.co/anime/213846) (09:08 04 July 2026)
 -   📺 Plans to watch [MARRIAGETOXIN 2nd Season](https://anilist.co/anime/213752) (09:08 04 July 2026)
--   📺 Watched episode 7 - 9 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (19:51 03 July 2026)
--   📺 Watched episode 6 of [MARRIAGETOXIN](https://anilist.co/anime/199547) (17:23 14 June 2026)
 
     <!-- ANILIST_ACTIVITY:end -->
 </details>
