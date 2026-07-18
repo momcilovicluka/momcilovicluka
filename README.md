@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 943.3 kB Used in GitHub's Storage 
+> 📦 944.1 kB Used in GitHub's Storage 
  > 
 > 🏆 216 Contributions in the Year 2026
  > 
@@ -214,19 +214,16 @@ Sunday                   694 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Python                   37 mins             █████████████░░░░░░░░░░░░   52.20 % 
-Markdown                 34 mins             ████████████░░░░░░░░░░░░░   47.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          1 hr 4 mins         ███████████████████████░░   90.58 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Luka                     59 mins             █████████████████████░░░░   83.49 % 
-Unknown Project          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -242,7 +239,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 02:07:02 UTC
+ Last Updated on 18/07/2026 01:59:48 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
