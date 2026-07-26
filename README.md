@@ -223,7 +223,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (2 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (4 months ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (4 months ago)
-- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (8 months ago)
+- [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (9 months ago)
 
 ## 🌱 My latest projects
 
