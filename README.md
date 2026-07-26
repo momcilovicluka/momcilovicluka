@@ -169,15 +169,17 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.62%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 941.3 kB Used in GitHub's Storage 
+> 📦 941.7 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2026
+> 🏆 222 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -185,6 +187,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+🌆 Daytime                788 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌃 Evening                1346 commits        ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌙 Night                  990 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Tuesday                  479 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Wednesday                418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Thursday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Friday                   827 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Saturday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   696 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+Python                   3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+svc                      3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -198,7 +239,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:10:04 UTC
+ Last Updated on 26/07/2026 02:15:23 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
