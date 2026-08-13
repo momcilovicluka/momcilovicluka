@@ -29,8 +29,8 @@
 
 ## ⭐ Recent Stars
 
-- [pctrade/end4-pC](https://github.com/pctrade/end4-pC) - Custom end4 (2 days ago)
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (2 days ago)
+- [pctrade/end4-pC](https://github.com/pctrade/end4-pC) - Custom end4 (3 days ago)
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (3 days ago)
 - [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3. (1 week ago)
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1 (1 month ago)
 - [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. (1 month ago)
