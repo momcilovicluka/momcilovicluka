@@ -179,9 +179,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 941.5 kB Used in GitHub's Storage 
+> 📦 942.3 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -193,20 +193,20 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-🌆 Daytime                788 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-🌃 Evening                1346 commits        ██████████░░░░░░░░░░░░░░░   39.28 % 
-🌙 Night                  1002 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌆 Daytime                788 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌃 Evening                1346 commits        ██████████░░░░░░░░░░░░░░░   39.25 % 
+🌙 Night                  1004 commits        ███████░░░░░░░░░░░░░░░░░░   29.28 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Monday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 Tuesday                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Wednesday                420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 Thursday                 255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Friday                   829 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Saturday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sunday                   697 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Friday                   829 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Saturday                 398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   698 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 
@@ -216,41 +216,22 @@ Sunday                   697 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████░░░░░░░░░░░░   50.02 % 
-Markdown                 13 mins             ████████████░░░░░░░░░░░░░   49.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Mašinsko Učenje          13 mins             ████████████░░░░░░░░░░░░░   49.98 % 
-fi                       10 mins             █████████░░░░░░░░░░░░░░░░   37.95 % 
-pi-em-seminarski-validira3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (79.31%)
-
-✍️ 494 lines written by AI, 2 lines written by hand (99.6% AI-written)
-
-🔤 936,271 Input Tokens, 26,288 Output Tokens
-
-💵 $2.73 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-GPT                      494 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📝 Concise Prompter — average 261 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -266,7 +247,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 01:25:50 UTC
+ Last Updated on 16/08/2026 00:59:27 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
