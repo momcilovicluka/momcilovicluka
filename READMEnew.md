@@ -1,5 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
+- [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (1 day ago)
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (3 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (5 months ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (5 months ago)
@@ -7,11 +8,11 @@
 
 ## 🌱 My latest projects
 
+- [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) - 
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) - 
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security
 - [momcilovicluka/5-days-in-cloud-task](https://github.com/momcilovicluka/5-days-in-cloud-task) - 
-- [momcilovicluka/spa3-vezbe](https://github.com/momcilovicluka/spa3-vezbe) - Exercises for SPA3 - Graphs and Trees
 
 ## 🔭 Latest releases I've contributed to
 
