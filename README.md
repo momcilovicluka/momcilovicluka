@@ -179,9 +179,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 943.4 kB Used in GitHub's Storage 
+> 📦 943.8 kB Used in GitHub's Storage 
  > 
-> 🏆 348 Contributions in the Year 2026
+> 🏆 349 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -194,19 +194,19 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 🌆 Daytime                826 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.29 % 
-🌙 Night                  1028 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.28 % 
+🌙 Night                  1029 commits        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Tuesday                  487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Wednesday                433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Friday                   858 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Friday                   858 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
 Saturday                 416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   706 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Sunday                   707 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 ```
 
 
@@ -216,38 +216,22 @@ Sunday                   706 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Other                    41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Seminar 2                41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 618,886 Input Tokens, 2,479 Output Tokens
-
-💵 $4.20 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 421 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -263,7 +247,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 02:48:20 UTC
+ Last Updated on 20/09/2026 03:00:29 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
