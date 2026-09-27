@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 
 > 📦 941.8 kB Used in GitHub's Storage 
  > 
-> 🏆 352 Contributions in the Year 2026
+> 🏆 353 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -192,21 +192,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                826 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.21 % 
-🌙 Night                  1035 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                826 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌙 Night                  1036 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Tuesday                  488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Thursday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Friday                   859 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Sunday                   707 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Tuesday                  488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Thursday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Friday                   859 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Sunday                   708 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -216,22 +216,38 @@ Sunday                   707 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+profesorica-mi-je-rekla-d4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 25,605 Input Tokens, 582 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -247,7 +263,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 03:09:12 UTC
+ Last Updated on 27/09/2026 03:15:41 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
