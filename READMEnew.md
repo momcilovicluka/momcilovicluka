@@ -41,8 +41,8 @@
 
 ## 👯 Check out some of my recent followers
 
+- [sabahmax-3](https://github.com/sabahmax-3)
 - [dig1talGhost](https://github.com/dig1talGhost)
 - [MarinaBajic](https://github.com/MarinaBajic)
 - [simonstolisic](https://github.com/simonstolisic)
 - [g5ostXa](https://github.com/g5ostXa)
-- [MiljanaMa](https://github.com/MiljanaMa)
