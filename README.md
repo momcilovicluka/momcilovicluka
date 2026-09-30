@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 942.3 kB Used in GitHub's Storage 
+> 📦 942.7 kB Used in GitHub's Storage 
  > 
 > 🏆 353 Contributions in the Year 2026
  > 
@@ -216,44 +216,45 @@ Sunday                   708 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ███████████████░░░░░░░░░░   58.32 % 
-Other                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python                   2 hrs 41 mins       ██████████████░░░░░░░░░░░   57.36 % 
+Other                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 33 mins       █████████████████████████   98.54 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   98.57 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-Metodi Istraživanja      4 hrs 10 mins       ███████████████████████░░   90.55 % 
-profesorica-mi-je-rekla-d13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Metodi Istraživanja      4 hrs 10 mins       ██████████████████████░░░   89.05 % 
+profesorica-mi-je-rekla-d13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Default Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 41 mins (100.0%)
 
-✍️ 9,934 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,635,510 Input Tokens, 702,626 Output Tokens
+🔤 4,927,695 Input Tokens, 718,389 Output Tokens
 
-💵 $1048.79 Estimated AI Cost This Week
+💵 $1055.14 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 70 AI Prompts
+🧠 13 AI Sessions, 72 AI Prompts
 
-Opencode-Cli             9,617 lines         ████████████████████████░   94.96 % 
-Spark                    510 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Opencode-Cli             9,617 lines         ███████████████████████░░   91.77 % 
+Spark                    862 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,006 characters per prompt
+📚 Verbose Prompter — average 3,896 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -271,7 +272,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 03:50:39 UTC
+ Last Updated on 30/09/2026 03:38:49 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
