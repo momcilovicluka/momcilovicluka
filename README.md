@@ -179,9 +179,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 943.9 kB Used in GitHub's Storage 
+> 📦 944.3 kB Used in GitHub's Storage 
  > 
-> 🏆 355 Contributions in the Year 2026
+> 🏆 356 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -194,19 +194,19 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 🌆 Daytime                826 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 Night                  1040 commits        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
+🌙 Night                  1041 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Tuesday                  489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Monday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Tuesday                  489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Thursday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Friday                   860 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Friday                   860 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
 Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Sunday                   708 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Sunday                   709 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -216,37 +216,36 @@ Sunday                   708 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ██████████████░░░░░░░░░░░   57.36 % 
-Other                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   2 hrs 41 mins       ███████████████░░░░░░░░░░   58.19 % 
+Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   98.57 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Metodi Istraživanja      4 hrs 10 mins       ██████████████████████░░░   89.05 % 
-profesorica-mi-je-rekla-d13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Default Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Metodi Istraživanja      4 hrs 10 mins       ███████████████████████░░   90.34 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+profesorica-mi-je-rekla-d9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Default Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 37 mins (100.0%)
 
 ✍️ 10,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,927,695 Input Tokens, 718,389 Output Tokens
+🔤 4,902,090 Input Tokens, 717,807 Output Tokens
 
-💵 $1055.14 Estimated AI Cost This Week
+💵 $1055.09 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 72 AI Prompts
+🧠 12 AI Sessions, 68 AI Prompts
 
 Opencode-Cli             9,617 lines         ███████████████████████░░   91.77 % 
 Spark                    862 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
@@ -254,7 +253,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,896 characters per prompt
+📚 Verbose Prompter — average 4,088 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -272,7 +271,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:28:21 UTC
+ Last Updated on 04/10/2026 03:55:37 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
