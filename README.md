@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 942.7 kB Used in GitHub's Storage 
+> 📦 943.1 kB Used in GitHub's Storage 
  > 
 > 🏆 364 Contributions in the Year 2026
  > 
@@ -216,22 +216,40 @@ Sunday                   710 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Metodi Istraživanja      2 hrs 20 mins       █████████████████████████   98.48 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 22 mins (100.0%)
+
+✍️ 1,138 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,628,348 Input Tokens, 167,270 Output Tokens
+
+💵 $304.62 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 14 AI Prompts
+
+Spark                    1,144 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 12,359 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -247,7 +265,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:57:00 UTC
+ Last Updated on 13/10/2026 05:06:57 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
