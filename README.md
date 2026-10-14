@@ -287,8 +287,8 @@ TypeScript               2 repos             █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (4 weeks ago)
-- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (4 months ago)
+- [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (1 month ago)
+- [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (5 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (6 months ago)
 - [momcilovicluka/Wallpapers](https://github.com/momcilovicluka/Wallpapers) - My wallpapers (6 months ago)
 - [momcilovicluka/securigis](https://github.com/momcilovicluka/securigis) - Spring Boot and Angular app with GIS for security (11 months ago)
