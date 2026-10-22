@@ -175,38 +175,38 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 946.2 kB Used in GitHub's Storage 
+> 📦 948.1 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2026
+> 🏆 424 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-🌆 Daytime                828 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-🌃 Evening                1392 commits        ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌙 Night                  1053 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌞 Morning                369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+🌆 Daytime                877 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌃 Evening                1392 commits        █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌙 Night                  1055 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Tuesday                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Wednesday                436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Thursday                 291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Friday                   861 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Saturday                 419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   710 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Monday                   363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Tuesday                  557 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Wednesday                462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Thursday                 300 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Friday                   882 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Saturday                 419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Sunday                   710 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
 
 
@@ -216,40 +216,22 @@ Sunday                   710 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Belgrade
 
 💬 Programming Languages: 
-Markdown                 2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Metodi Istraživanja      2 hrs 41 mins       █████████████████████████   98.67 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (100.0%)
-
-✍️ 1,223 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,706,169 Input Tokens, 195,414 Output Tokens
-
-💵 $324.46 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 20 AI Prompts
-
-Spark                    1,229 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,673 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -257,15 +239,15 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```text
 Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 20/10/2026 03:05:45 UTC
+ Last Updated on 22/10/2026 02:59:21 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
