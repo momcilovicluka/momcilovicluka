@@ -259,11 +259,11 @@ Rust                     1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/momcilovicluka/lazyrunner/issues/2) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-2. 🎉 Merged PR [#3](https://github.com/momcilovicluka/lazyrunner/pull/3) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-3. ℹ️ Assigned issue [#2](https://github.com/momcilovicluka/lazyrunner/issues/2) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+1. ℹ️ Assigned issue [#4](https://github.com/momcilovicluka/lazyrunner/issues/4) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+2. 🔒 Closed issue [#2](https://github.com/momcilovicluka/lazyrunner/issues/2) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+3. 🎉 Merged PR [#3](https://github.com/momcilovicluka/lazyrunner/pull/3) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
 4. ℹ️ Assigned issue [#2](https://github.com/momcilovicluka/lazyrunner/issues/2) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-5. ❌ Closed PR [#2794](https://github.com/ChrisTitusTech/winutil/pull/2794) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+5. ℹ️ Assigned issue [#2](https://github.com/momcilovicluka/lazyrunner/issues/2) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
