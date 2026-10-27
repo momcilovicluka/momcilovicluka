@@ -289,7 +289,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 <!--START_SECTION:cp-->
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management. (3 days ago)
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management. (1 day ago)
 - [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (1 month ago)
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (5 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (7 months ago)
@@ -305,7 +305,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.7.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.7.0), 3 days ago) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management.
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.10.2](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.10.2), 1 day ago) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management.
 
 ## 🔨 My recent Pull Requests
 
