@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.10.2](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.10.2), 1 day ago) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management.
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.16.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.16.0), 1 day ago) - A terminal UI for running .NET APIs and npm frontends side by side, with smart builds, live logs, and process management.
 
 ## 🔨 My recent Pull Requests
 
