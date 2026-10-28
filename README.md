@@ -175,13 +175,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 943.0 kB Used in GitHub's Storage 
+> 📦 943.7 kB Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2026
+> 🏆 553 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -189,71 +189,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                1015 commits        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌃 Evening                1398 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌙 Night                  1060 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Tuesday                  575 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Thursday                 416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Friday                   918 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Sunday                   711 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Belgrade
-
-💬 Programming Languages: 
-Markdown                 1 hr 19 mins        ██████████████████░░░░░░░   73.26 % 
-Python                   28 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-
-🔥 Editors: 
-Opencode Cli             1 hr 26 mins        ████████████████████░░░░░   79.85 % 
-VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-🐱‍💻 Projects: 
-lazyrunner               1 hr 48 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 48 mins (100.0%)
-
-✍️ 1,600 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,411,089 Input Tokens, 235,660 Output Tokens
-
-💵 $128.22 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 28 AI Prompts
-
-DeepSeek                 1,600 lines         ██████████████████████░░░   88.25 % 
-Spark                    213 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -267,7 +202,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:24:48 UTC
+ Last Updated on 28/10/2026 03:40:58 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
