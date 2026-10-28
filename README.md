@@ -214,11 +214,11 @@ Rust                     1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9](https://github.com/momcilovicluka/lazyrunner/issues/9) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-2. ℹ️ Labeled issue [#11](https://github.com/momcilovicluka/lazyrunner/issues/11) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-3. ℹ️ Labeled issue [#8](https://github.com/momcilovicluka/lazyrunner/issues/8) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-4. ℹ️ Labeled issue [#10](https://github.com/momcilovicluka/lazyrunner/issues/10) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-5. ℹ️ Labeled issue [#9](https://github.com/momcilovicluka/lazyrunner/issues/9) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+1. ℹ️ Labeled issue [#36](https://github.com/momcilovicluka/lazyrunner/issues/36) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+2. ℹ️ Labeled issue [#39](https://github.com/momcilovicluka/lazyrunner/issues/39) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+3. ℹ️ Labeled issue [#35](https://github.com/momcilovicluka/lazyrunner/issues/35) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+4. ℹ️ Labeled issue [#33](https://github.com/momcilovicluka/lazyrunner/issues/33) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+5. ℹ️ Labeled issue [#32](https://github.com/momcilovicluka/lazyrunner/issues/32) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
