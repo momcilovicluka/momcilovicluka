@@ -169,19 +169,19 @@ Here are some ideas to get you started:
   <hr>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 943.7 kB Used in GitHub's Storage 
+> 📦 944.1 kB Used in GitHub's Storage 
  > 
-> 🏆 553 Contributions in the Year 2026
+> 🏆 583 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -189,6 +189,71 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+🌆 Daytime                1042 commits        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌃 Evening                1370 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌙 Night                  799 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Tuesday                  569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Wednesday                487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Friday                   885 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Saturday                 381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Sunday                   655 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Belgrade
+
+💬 Programming Languages: 
+Markdown                 1 hr 24 mins        ███████████████████░░░░░░   74.47 % 
+Python                   28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+
+🔥 Editors: 
+Opencode Cli             1 hr 26 mins        ███████████████████░░░░░░   76.27 % 
+VS Code                  26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+
+🐱‍💻 Projects: 
+lazyrunner               1 hr 53 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 53 mins (100.0%)
+
+✍️ 2,023 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,733,051 Input Tokens, 260,680 Output Tokens
+
+💵 $116.55 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 32 AI Prompts
+
+DeepSeek                 1,600 lines         ████████████████████░░░░░   79.09 % 
+Opencode-Cli             423 lines           █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -202,7 +267,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 03:40:58 UTC
+ Last Updated on 29/10/2026 04:01:02 UTC
 <!--END_SECTION:waka-->
 </details>
 <hr>
