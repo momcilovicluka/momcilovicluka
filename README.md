@@ -276,11 +276,11 @@ Rust                     1 repo              █░░░░░░░░░░�
 
   ## 📃 Summary
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#50](https://github.com/momcilovicluka/lazyrunner/issues/50) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-2. 🔒 Closed issue [#69](https://github.com/momcilovicluka/lazyrunner/issues/69) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-3. 🔒 Closed issue [#71](https://github.com/momcilovicluka/lazyrunner/issues/71) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-4. 🔒 Closed issue [#70](https://github.com/momcilovicluka/lazyrunner/issues/70) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
-5. ❗ Opened issue [#69](https://github.com/momcilovicluka/lazyrunner/issues/69) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+1. ℹ️ Labeled issue [#77](https://github.com/momcilovicluka/lazyrunner/issues/77) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+2. ℹ️ Labeled issue [#77](https://github.com/momcilovicluka/lazyrunner/issues/77) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+3. ❗ Opened issue [#77](https://github.com/momcilovicluka/lazyrunner/issues/77) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+4. 🔒 Closed issue [#37](https://github.com/momcilovicluka/lazyrunner/issues/37) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
+5. 🔒 Closed issue [#54](https://github.com/momcilovicluka/lazyrunner/issues/54) in [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:cp-->
