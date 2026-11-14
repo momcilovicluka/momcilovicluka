@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.86.1](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.86.1), 1 day ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.96.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.96.0), 1 day ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
 
 ## 🔨 My recent Pull Requests
 
@@ -31,7 +31,7 @@
 
 ## ⭐ Recent Stars
 
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (4 days ago)
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (5 days ago)
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59 (1 month ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 month ago)
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever. (1 month ago)
