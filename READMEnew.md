@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features (2 days ago)
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features (3 days ago)
 - [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (2 months ago)
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (6 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (7 months ago)
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.96.4](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.96.4), 2 days ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.96.4](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.96.4), 3 days ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
 
 ## 🔨 My recent Pull Requests
 
@@ -31,9 +31,9 @@
 
 ## ⭐ Recent Stars
 
-- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (1 day ago)
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (2 days ago)
-- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (2 days ago)
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (2 days ago)
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (3 days ago)
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (3 days ago)
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. (1 week ago)
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59 (1 month ago)
 
