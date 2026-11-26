@@ -1,6 +1,6 @@
 ## 👷 Check out what I'm currently working on
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features (2 days ago)
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features (1 day ago)
 - [momcilovicluka/T2I-CNN](https://github.com/momcilovicluka/T2I-CNN) -  (2 months ago)
 - [momcilovicluka/ids-ips-ml](https://github.com/momcilovicluka/ids-ips-ml) -  (6 months ago)
 - [momcilovicluka/Hyprland-dots](https://github.com/momcilovicluka/Hyprland-dots) - Dotfiles for my Arch Hyprland setup. (8 months ago)
@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.107.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.107.0), 2 days ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.109.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.109.0), 1 day ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
 
 ## 🔨 My recent Pull Requests
 
