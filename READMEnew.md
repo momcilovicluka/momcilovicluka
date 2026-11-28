@@ -16,7 +16,7 @@
 
 ## 🔭 Latest releases I've contributed to
 
-- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.117.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.117.0), 1 day ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
+- [momcilovicluka/lazyrunner](https://github.com/momcilovicluka/lazyrunner) ([v1.122.0](https://github.com/momcilovicluka/lazyrunner/releases/tag/v1.122.0), 1 day ago) - TUI for running APIs and npm frontends side by side, with smart builds, live logs, MCP, migrations, graph, audit, requests and more smart features
 
 ## 🔨 My recent Pull Requests
 
